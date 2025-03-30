@@ -1,4 +1,5 @@
-﻿* {
+﻿/* Reset some default browser styles */
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -23,6 +24,7 @@ body {
 
     .hero h1 {
         font-size: 3.5rem;
+        font-weight: bold;
         margin-bottom: 20px;
     }
 
@@ -34,27 +36,37 @@ body {
 
     .hero a {
         margin-top: 20px;
-        padding: 10px 20px;
+        padding: 15px 30px;
         background-color: #7baf61;
         color: white;
         text-decoration: none;
         border-radius: 5px;
+        font-size: 1.5rem;
+        display: inline-block;
+        transition: background-color 0.3s, color 0.3s;
     }
 
         .hero a:hover {
             background-color: #679e5a;
+            color: white;
         }
 
 /* Featured Cards Section */
 .featured-cards {
-    padding: 100px 20px 50px;
+    padding: 50px 20px 50px;
     text-align: center;
 }
 
     .featured-cards h2 {
         font-size: 2.5rem;
-        color: white;
+        color: #aeb2e2;
+        font-weight: bold;
         margin-bottom: 30px;
+        display: inline-block;
+        padding: 15px 30px;
+        background-color: #fff;
+        border-radius: 8px;
+        border: 2px solid #daddf7;
     }
 
 /* Card Grid */
