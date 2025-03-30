@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\HomeController.cs" Link="HomeController.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="wwwroot\Images\bulbasaurCard.jpg" />
     <None Include="wwwroot\Images\charizardCard.jpg" />
     <None Include="wwwroot\Images\jigglypuffCard.png" />
