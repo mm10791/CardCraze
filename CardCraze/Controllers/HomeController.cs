@@ -1,31 +1,40 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using CardCraze.Models;
+using Microsoft.EntityFrameworkCore;
 
-namespace CardCraze.Controllers;
-
-public class HomeController : Controller
+namespace CardCraze.Controllers
 {
-    private readonly ILogger<HomeController> _logger;
-
-    public HomeController(ILogger<HomeController> logger)
+    public class HomeController : Controller
     {
-        _logger = logger;
-    }
+        private readonly CardCrazeDbContext _context;
 
-    public IActionResult Index()
-    {
-        return View();
-    }
+        public HomeController(CardCrazeDbContext context)
+        {
+            _context = context;
+        }
 
-    public IActionResult Privacy()
-    {
-        return View();
-    }
+        public IActionResult Index()
+        {
+            var featuredCards = _context.Cards.Take(6).ToList();
 
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            var model = new FeaturedCards
+            {
+                Cards = featuredCards
+            };
+
+            return View(model);
+        }
+
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
     }
 }

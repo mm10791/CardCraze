@@ -7,12 +7,69 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/CardCraze.styles.css" asp-append-version="true" />
+
+    <!-- adding custom styles -->
+    <style>
+        .navbar-custom {
+            background-color: #f8f7fb;
+        }
+
+        .navbar-custom .navbar-nav .nav-link:not(.btn-custom) {
+            color: #7eaf73 !important;
+        }
+
+        .navbar-custom .navbar-nav .nav-link:not(.btn-custom):hover {
+            color: #6a9c66 !important;
+        }
+
+        .navbar-brand {
+            font-size: 28px;
+            color: #72af64 !important;
+        }
+
+        .btn-custom {
+            background-color: #72af64;
+            color: white;
+            padding: 8px 20px;
+            border-radius: 5px;
+            margin-right: 10px;
+            text-align: center;
+        }
+
+        .btn-custom:hover {
+            background-color: #679651;
+            color: white;
+        }
+
+        footer {
+            background-color: rgba(248, 247, 251, 0.9);
+            padding: 20px 0;
+            text-align: center;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+
+        footer .container {
+           color: #72af64;
+           font-size: 1rem;
+        }
+
+        footer a {
+            color: #72af64;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            color: #6a9c66;
+        }
+    </style>
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light navbar-custom border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">CardCraze</a>
+                <a class="navbar-brand" href="@Url.Action("Index", "Home")">CardCraze</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -26,21 +83,26 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                     </ul>
+                    <div class="navbar-nav">
+                        <a class="nav-link btn-custom" href="@Url.Action("Login", "Account")">Login</a>
+                        <a class="nav-link btn-custom" href="@Url.Action("SignUp", "Account")">Sign Up</a>
+                    </div>
                 </div>
             </div>
         </nav>
     </header>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
-
-    <footer class="border-top footer text-muted">
+    <footer>
         <div class="container">
             &copy; 2025 - CardCraze - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

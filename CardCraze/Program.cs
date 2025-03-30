@@ -1,27 +1,26 @@
+using CardCraze.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+var connectionString = builder.Configuration.GetConnectionString("CardCrazeDb");
+
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<CardCrazeDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("CardCrazeDb"))
+);
+
+builder.Services.AddSession();
+builder.Services.AddDistributedMemoryCache();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
-{
-    app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
-}
-
-app.UseHttpsRedirection();
 app.UseStaticFiles();
-
+app.UseSession();
 app.UseRouting();
-
 app.UseAuthorization();
+app.MapDefaultControllerRoute();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+FakeCardData.LoadData(app);
 
 app.Run();
