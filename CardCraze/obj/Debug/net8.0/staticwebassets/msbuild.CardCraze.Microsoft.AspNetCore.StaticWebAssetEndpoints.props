@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CardCraze.kg89d34ema.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7JOKwhvHaonYnaemDTf1OAjX\u002B3GEbyk/OOEmLQDBe/M="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1127"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00227JOKwhvHaonYnaemDTf1OAjX\u002B3GEbyk/OOEmLQDBe/M=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 15:57:50 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1127"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00227JOKwhvHaonYnaemDTf1OAjX\u002B3GEbyk/OOEmLQDBe/M=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Apr 2025 22:13:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CardCraze/CardCraze.kg89d34ema.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CardCraze.kg89d34ema.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kg89d34ema"},{"Name":"integrity","Value":"sha256-7JOKwhvHaonYnaemDTf1OAjX\u002B3GEbyk/OOEmLQDBe/M="},{"Name":"label","Value":"_content/CardCraze/CardCraze.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1127"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00227JOKwhvHaonYnaemDTf1OAjX\u002B3GEbyk/OOEmLQDBe/M=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 15:57:50 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1127"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00227JOKwhvHaonYnaemDTf1OAjX\u002B3GEbyk/OOEmLQDBe/M=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Apr 2025 22:13:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CardCraze/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
