@@ -1,3 +1,5 @@
+//Author of class: Max
+
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using CardCraze.Models;

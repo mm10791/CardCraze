@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6xXYaX1RLymJ9qlh8FQWIHAJMGLXaoC/5+B0+SdUULw=",
+  "Hash": "M5GlYsl3wYBvT/Og5QU9uF0rolS2n/r8lNfvyGsj9f4=",
   "Source": "CardCraze",
   "BasePath": "_content/CardCraze",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0eu27rt043",
-      "Integrity": "WIm5Sw5uqMcI8fUQNPQdg/KJ/uJ56ydpEeyXQfuxqzY=",
+      "Fingerprint": "cc0b5zusak",
+      "Integrity": "fEdJvqf9ezYrGhF4iuykNEgfyyU06r2tTB7Ztxfff1c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -1735,7 +1735,7 @@
       ]
     },
     {
-      "Route": "css/style.0eu27rt043.css",
+      "Route": "css/style.cc0b5zusak.css",
       "AssetFile": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1745,7 +1745,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2508"
+          "Value": "2422"
         },
         {
           "Name": "Content-Type",
@@ -1753,11 +1753,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WIm5Sw5uqMcI8fUQNPQdg/KJ/uJ56ydpEeyXQfuxqzY=\""
+          "Value": "\"fEdJvqf9ezYrGhF4iuykNEgfyyU06r2tTB7Ztxfff1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:08:14 GMT"
+          "Value": "Tue, 08 Apr 2025 21:45:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1767,7 +1767,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0eu27rt043"
+          "Value": "cc0b5zusak"
         },
         {
           "Name": "label",
@@ -1775,7 +1775,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WIm5Sw5uqMcI8fUQNPQdg/KJ/uJ56ydpEeyXQfuxqzY="
+          "Value": "sha256-fEdJvqf9ezYrGhF4iuykNEgfyyU06r2tTB7Ztxfff1c="
         }
       ]
     },
@@ -1790,7 +1790,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2508"
+          "Value": "2422"
         },
         {
           "Name": "Content-Type",
@@ -1798,11 +1798,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WIm5Sw5uqMcI8fUQNPQdg/KJ/uJ56ydpEeyXQfuxqzY=\""
+          "Value": "\"fEdJvqf9ezYrGhF4iuykNEgfyyU06r2tTB7Ztxfff1c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:08:14 GMT"
+          "Value": "Tue, 08 Apr 2025 21:45:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1812,7 +1812,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WIm5Sw5uqMcI8fUQNPQdg/KJ/uJ56ydpEeyXQfuxqzY="
+          "Value": "sha256-fEdJvqf9ezYrGhF4iuykNEgfyyU06r2tTB7Ztxfff1c="
         }
       ]
     },
