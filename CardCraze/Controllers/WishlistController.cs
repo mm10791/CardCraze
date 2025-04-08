@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿//Author of class: Max
+
+using Microsoft.AspNetCore.Mvc;
 
 namespace CardCraze.Controllers
 {

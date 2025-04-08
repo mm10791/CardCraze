@@ -1,4 +1,6 @@
-﻿namespace CardCraze.Models
+﻿//Author of class: Max
+
+namespace CardCraze.Models
 {
     using System.ComponentModel.DataAnnotations;
 

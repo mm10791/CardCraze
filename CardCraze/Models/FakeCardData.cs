@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿//Author of class: Max
+
+using Microsoft.EntityFrameworkCore;
 
 namespace CardCraze.Models
 {
