@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\models\\fakecarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\fakecarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -49,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\models\\fakecarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\fakecarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\models\\featuredcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,7 +114,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Wishlist.cs",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\Wishlist.cs",
               "RelativeDocumentMoniker": "CardCraze\\Models\\Wishlist.cs",
@@ -124,20 +128,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Card.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\Card.cs",
-              "RelativeDocumentMoniker": "CardCraze\\Models\\Card.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\Card.cs",
-              "RelativeToolTip": "CardCraze\\Models\\Card.cs",
+              "DocumentIndex": 1,
+              "Title": "APIClient.cs",
+              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\APIClient.cs",
+              "RelativeDocumentMoniker": "CardCraze\\APIClient.cs",
+              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\APIClient.cs",
+              "RelativeToolTip": "CardCraze\\APIClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T01:44:50.509Z",
+              "WhenOpened": "2025-04-09T04:16:42.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "CardCrazeDbContext.cs",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\CardCrazeDbContext.cs",
               "RelativeDocumentMoniker": "CardCraze\\Models\\CardCrazeDbContext.cs",
@@ -150,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Login.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Account\\Login.cshtml",
@@ -163,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SignUp.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Account\\SignUp.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Account\\SignUp.cshtml",
@@ -176,20 +180,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Home\\Index.cshtml",
               "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CardCraze\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-09T01:32:19.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Home\\Privacy.cshtml",
@@ -202,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Shared\\_Layout.cshtml",
@@ -215,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -228,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Error.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Shared\\Error.cshtml",
@@ -254,33 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\User.cs",
-              "RelativeDocumentMoniker": "CardCraze\\Models\\User.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\User.cs",
-              "RelativeToolTip": "CardCraze\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T01:44:48.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "CardCraze\\Models\\ErrorViewModel.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "CardCraze\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T02:55:08.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "FakeCardData.cs",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\FakeCardData.cs",
               "RelativeDocumentMoniker": "CardCraze\\Models\\FakeCardData.cs",
@@ -293,7 +271,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Card.cs",
+              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "CardCraze\\Models\\Card.cs",
+              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\Card.cs",
+              "RelativeToolTip": "CardCraze\\Models\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:44:50.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CardCraze\\Models\\User.cs",
+              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\User.cs",
+              "RelativeToolTip": "CardCraze\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:44:48.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CardCraze\\Models\\ErrorViewModel.cs",
+              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CardCraze\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:55:08.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "FeaturedCards.cs",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\FeaturedCards.cs",
               "RelativeDocumentMoniker": "CardCraze\\Models\\FeaturedCards.cs",
@@ -306,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CardCraze\\Controllers\\HomeController.cs",
@@ -319,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AccountController.cs",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "CardCraze\\Controllers\\AccountController.cs",
@@ -332,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\_ViewImports.cshtml",
@@ -345,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\_ViewStart.cshtml",
@@ -358,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "WishlistController.cs",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Controllers\\WishlistController.cs",
               "RelativeDocumentMoniker": "CardCraze\\Controllers\\WishlistController.cs",
@@ -371,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "20250330160651_InitialCreate.cs",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Migrations\\20250330160651_InitialCreate.cs",
               "RelativeDocumentMoniker": "CardCraze\\Migrations\\20250330160651_InitialCreate.cs",
@@ -384,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "CardCraze",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\CardCraze.csproj",
               "RelativeDocumentMoniker": "CardCraze\\CardCraze.csproj",
@@ -396,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Program.cs",
               "RelativeDocumentMoniker": "CardCrazeAPI\\Program.cs",
@@ -409,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "style.css",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "CardCraze\\wwwroot\\css\\style.css",
