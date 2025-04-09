@@ -7,6 +7,7 @@ wwwroot\Images\charizardCard.jpg
 wwwroot\Images\jigglypuffCard.png
 wwwroot\Images\mewtwoCard.jpg
 wwwroot\Images\pikachuCard.jpg
+wwwroot\Images\snorlax.PNG
 wwwroot\Images\squirtleCard.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
