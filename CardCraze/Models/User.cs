@@ -5,7 +5,7 @@ public class User
 {
     [Required]
     [Display(Name = "First Name")]
-    public string FirstName { get; set; }
+    public string Name { get; set; }
 
     [Required]
     [Display(Name = "Last Name")]

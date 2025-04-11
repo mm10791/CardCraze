@@ -11,5 +11,7 @@ namespace CardCrazeAPI.Models
 		public DbSet<Card> Cards { get; set; }
 
 		public DbSet<Wishlist> Wishlists { get; set; }
+
+		public DbSet<User> Users { get; set; }
 	}
 }

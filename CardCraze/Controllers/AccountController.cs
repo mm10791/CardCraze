@@ -1,21 +1,27 @@
 ﻿//Author of class: Tristan 
 
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using CardCraze.Models;
-using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
+using System.Text;
+
 namespace CardCraze.Controllers
-
-
 {
     public class AccountController : Controller
     {
 
+        private readonly HttpClient _httpClient;
+
+        public AccountController()
+        {
+            _httpClient = new HttpClient
+            {
+                BaseAddress = new Uri("https://localhost:7283/")
+            };
+        }
+
         [HttpGet]
         public IActionResult SignUp()
         {
-            
-
             return View();
         }
 
@@ -34,19 +40,30 @@ namespace CardCraze.Controllers
             return View(user);
         }
 
+
         [HttpPost]
-        public IActionResult SignUp(User user)
+        public async Task<IActionResult> SignUp(User model)
         {
-            if(ModelState.IsValid)
+
+            var json = JsonConvert.SerializeObject(model);
+            var content = new StringContent(json, Encoding.UTF8, "application/json");
+
+            var response = await _httpClient.PostAsync("api/user", content);
+
+            if(response.IsSuccessStatusCode)
             {
-                return RedirectToAction("Success");
+                return RedirectToAction("Login");
             }
-            return View(user);
+
+            ViewBag.Message = "Sign up failed";
+            return View();
+           
         }
 
-        public IActionResult Success()
+        [HttpGet]
+        public IActionResult Dashboard()
         {
-            return Content("New Account Made, Welcome!");
+            return View();
         }
 
     }

@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Images\\backgroundImage.PNG"
     },
     {
+      "Id": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundSunsetImage.png",
+      "PackagePath": "staticwebassets\\Images\\backgroundSunsetImage.png"
+    },
+    {
       "Id": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\bulbasaurCard.jpg",
       "PackagePath": "staticwebassets\\Images\\bulbasaurCard.jpg"
     },

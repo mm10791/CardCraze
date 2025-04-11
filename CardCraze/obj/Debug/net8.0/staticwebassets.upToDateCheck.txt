@@ -2,6 +2,7 @@ wwwroot\css\site.css
 wwwroot\css\style.css
 wwwroot\favicon.ico
 wwwroot\Images\backgroundImage.PNG
+wwwroot\Images\backgroundSunsetImage.png
 wwwroot\Images\bulbasaurCard.jpg
 wwwroot\Images\charizardCard.jpg
 wwwroot\Images\jigglypuffCard.png

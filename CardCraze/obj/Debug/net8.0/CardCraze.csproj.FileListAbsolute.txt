@@ -517,3 +517,4 @@ G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\refint\CardCraze.dll
 G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\CardCraze.pdb
 G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\CardCraze.genruntimeconfig.cache
 G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\ref\CardCraze.dll
+G:\CSharpProj\CardCraze\CardCraze\bin\Debug\net8.0\Newtonsoft.Json.dll
