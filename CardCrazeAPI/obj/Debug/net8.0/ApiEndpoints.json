@@ -149,5 +149,21 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "CardCrazeAPI.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CardCrazeAPI.Models.LoginUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

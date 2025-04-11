@@ -27,7 +27,7 @@ namespace CardCrazeAPI.Controllers
 
             return Ok(user);
         }
-
+        //testing
         [HttpGet("{id}")]
         public async Task<ActionResult<User>> GetUser(int id)
         {
@@ -45,5 +45,22 @@ namespace CardCrazeAPI.Controllers
             }
 
         }
+
+
+        //logging in
+        [HttpPost("login")]
+        public async Task<IActionResult> Login([FromBody] LoginUser request)
+        {
+            var user = await _context.Users
+                .FirstOrDefaultAsync(u =>
+                    u.Email.ToLower() == request.Email.ToLower() &&
+                    u.Password == request.Password);
+
+            if (user == null)
+                return NotFound(new { message = "Invalid email or password" });
+
+            return Ok(new { message = "Login succeeded", userId = user.Id });
+        }
+
     }
 }

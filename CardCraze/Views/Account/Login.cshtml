@@ -1,8 +1,13 @@
 ﻿<!-- Authored by Tristan-->
-@model User
+@model LoginUser
 
 @{
     ViewData["Title"] = "Login";
+    @if (ViewBag.ErrorMessage != null)
+    {
+        <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+    }
+
 }
 
 <!DOCTYPE html>
@@ -94,7 +99,7 @@
     <section class="form-section">
         <div class="form-container">
 
-            <form asp-action="SignUp" method="post">
+            <form asp-action="Login" method="post">
                 <div asp-validation-summary="All" class="text-danger"></div>
 
                 <div class="form-group">
@@ -105,7 +110,7 @@
 
                 <div class="form-group">
                     <label asp-for="Password"></label>
-                    <input asp-for="Password" class="form-control" />
+                    <input asp-for="Password" type="password" class="form-control" />
                     <span asp-validation-for="Password" class="text-danger"></span>
                 </div>
 
