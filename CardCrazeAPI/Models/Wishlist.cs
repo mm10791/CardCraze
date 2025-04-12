@@ -1,4 +1,4 @@
-﻿//Author of class: Max
+﻿//Author of class: Max/Adrian
 
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -18,5 +18,8 @@ namespace CardCrazeAPI.Models
 
         [ForeignKey("CardID")]
         public Card Card { get; set; }
+
+        [ForeignKey("UserID")]
+        public User User { get; set; }
     }
 }

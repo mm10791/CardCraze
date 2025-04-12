@@ -1,0 +1,124 @@
+﻿<!-- Authored by Tristan-->
+@model LoginUser
+
+@{
+    ViewData["Title"] = "Login";
+    @if (ViewBag.ErrorMessage != null)
+    {
+        <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+    }
+
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="~/css/style.css" rel="stylesheet" />
+    <style>
+        body {
+            margin: 0;
+            display: block;
+            font-family: Arial, sans-serif;
+        }
+
+        .hero {
+            width: 100%;
+            padding: 40px 20px;
+            background-color: #dfffe0;
+            text-align: center;
+        }
+
+            .hero h1 {
+                margin: 0 0 10px;
+                font-size: 2.5rem;
+                color: #555;
+            }
+
+            .hero p {
+                font-size: 1.2rem;
+                color: #555;
+            }
+
+        .form-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 40px 20px;
+        }
+
+        .form-container {
+            max-width: 400px;
+            width: 100%;
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        .btn-primary {
+            width: 100%;
+            padding: 10px;
+            color: #555;
+            background-color: #b2ccb3;
+        }
+
+        .character-image {
+            text-align: center;
+            margin-bottom: -75px;
+        }
+
+            .character-image img {
+                max-width: 150px;
+                height: auto;
+                margin-bottom: -10px;
+            }
+
+    </style>
+</head>
+<body>
+
+    <!-- Title  -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Login</h1>
+            
+        </div>
+    </section>
+
+    <div class="character-image">
+        <img src="~/Images/snorlax.PNG" />
+    </div>
+    <!-- Sign Up Form -->
+    <section class="form-section">
+        <div class="form-container">
+
+            <form asp-action="Login" method="post">
+                <div asp-validation-summary="All" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Email"></label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Password"></label>
+                    <input asp-for="Password" type="password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+
+                <button type="submit" class="btn-primary">Login</button>
+            </form>
+        </div>
+    </section>
+
+</body>
+</html>

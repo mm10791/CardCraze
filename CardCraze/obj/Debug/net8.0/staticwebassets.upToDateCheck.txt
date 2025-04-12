@@ -2,11 +2,13 @@ wwwroot\css\site.css
 wwwroot\css\style.css
 wwwroot\favicon.ico
 wwwroot\Images\backgroundImage.PNG
+wwwroot\Images\backgroundSunsetImage.png
 wwwroot\Images\bulbasaurCard.jpg
 wwwroot\Images\charizardCard.jpg
 wwwroot\Images\jigglypuffCard.png
 wwwroot\Images\mewtwoCard.jpg
 wwwroot\Images\pikachuCard.jpg
+wwwroot\Images\snorlax.PNG
 wwwroot\Images\squirtleCard.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
