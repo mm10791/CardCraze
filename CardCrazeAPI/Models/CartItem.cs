@@ -1,7 +1,9 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿//Authored by Adrian
+
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace CardCraze.Models
+namespace CardCrazeAPI.Models
 {
     public class CartItem
     {

@@ -5171,23 +5171,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Young Jae\\.nuget\\packages\\": {},
+    "C:\\Users\\adria\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
+      "projectUniqueName": "C:\\Users\\adria\\Documents\\CardCraze\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
       "projectName": "CardCrazeAPI",
-      "projectPath": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
-      "packagesPath": "C:\\Users\\Young Jae\\.nuget\\packages\\",
-      "outputPath": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\obj\\",
+      "projectPath": "C:\\Users\\adria\\Documents\\CardCraze\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
+      "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adria\\Documents\\CardCraze\\CardCraze\\CardCrazeAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Young Jae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

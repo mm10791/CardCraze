@@ -17,61 +17,61 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CardCraze
 build_property.RootNamespace = CardCraze
-build_property.ProjectDir = G:\CSharpProj\CardCraze\CardCraze\
+build_property.ProjectDir = C:\Users\adria\Documents\CardCraze\CardCraze\CardCraze\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = G:\CSharpProj\CardCraze\CardCraze
+build_property.MSBuildProjectDirectory = C:\Users\adria\Documents\CardCraze\CardCraze\CardCraze
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[G:/CSharpProj/CardCraze/CardCraze/Views/Account/Dashboard.cshtml]
+[C:/Users/adria/Documents/CardCraze/CardCraze/CardCraze/Views/Account/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/CSharpProj/CardCraze/CardCraze/Views/Account/Login.cshtml]
+[C:/Users/adria/Documents/CardCraze/CardCraze/CardCraze/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/CSharpProj/CardCraze/CardCraze/Views/Account/SignUp.cshtml]
+[C:/Users/adria/Documents/CardCraze/CardCraze/CardCraze/Views/Account/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/CSharpProj/CardCraze/CardCraze/Views/Cart/Cart.cshtml]
+[C:/Users/adria/Documents/CardCraze/CardCraze/CardCraze/Views/Cart/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/CSharpProj/CardCraze/CardCraze/Views/Home/Index.cshtml]
+[C:/Users/adria/Documents/CardCraze/CardCraze/CardCraze/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/CSharpProj/CardCraze/CardCraze/Views/Home/Privacy.cshtml]
+[C:/Users/adria/Documents/CardCraze/CardCraze/CardCraze/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/CSharpProj/CardCraze/CardCraze/Views/Shared/Error.cshtml]
+[C:/Users/adria/Documents/CardCraze/CardCraze/CardCraze/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/CSharpProj/CardCraze/CardCraze/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/adria/Documents/CardCraze/CardCraze/CardCraze/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/CSharpProj/CardCraze/CardCraze/Views/Shop/Shop.cshtml]
+[C:/Users/adria/Documents/CardCraze/CardCraze/CardCraze/Views/Shop/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxTaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/CSharpProj/CardCraze/CardCraze/Views/_ViewImports.cshtml]
+[C:/Users/adria/Documents/CardCraze/CardCraze/CardCraze/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/CSharpProj/CardCraze/CardCraze/Views/_ViewStart.cshtml]
+[C:/Users/adria/Documents/CardCraze/CardCraze/CardCraze/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/CSharpProj/CardCraze/CardCraze/Views/Shared/_Layout.cshtml]
+[C:/Users/adria/Documents/CardCraze/CardCraze/CardCraze/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k8yltmwm13
