@@ -1,4 +1,4 @@
-﻿//Author of class: Max
+﻿//Author of class: Max/Adrian
 
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;

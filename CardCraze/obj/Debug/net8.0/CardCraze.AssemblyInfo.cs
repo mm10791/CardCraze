@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CardCraze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d8a51b541a9bf440cb49e184093c4bf6a2c716e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30bc742386b81368468543b84dd6f7feb5719bbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("CardCraze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CardCraze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

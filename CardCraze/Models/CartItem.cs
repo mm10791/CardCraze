@@ -1,4 +1,6 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿//Author Adrian
+
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CardCraze.Models
@@ -22,5 +24,6 @@ namespace CardCraze.Models
 
         [ForeignKey("UserID")]
         public User User { get; set; }
+
     }
 }

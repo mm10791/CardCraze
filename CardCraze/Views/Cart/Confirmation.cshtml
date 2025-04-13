@@ -109,15 +109,11 @@
     <img class="bouncing-image" src="/Images/mewImage.png" alt="Bouncing Mew" />
 
     <div class="confirmation-container">
-        <div class="confirmation-title">Card Successfully Added!</div>
+        <div class="confirmation-title">Card Successfully Ordered!</div>
         <div class="next-steps">What would you like to do next?</div>
         <div class="button-container">
             <form method="get" action="@Url.Action("BrowseCards", "Shop")">
                 <button class="action-button browse">Back to Browse</button>
-            </form>
-
-            <form method="get" action="@Url.Action("MyCart", "Cart")">
-                <button class="action-button cart">View Cart</button>
             </form>
 
             <form method="get" action="@Url.Action("MyWishlist", "Wishlist")">

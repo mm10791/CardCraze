@@ -518,3 +518,4 @@ C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCrazeAPI\obj\Debug\net8.
 C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCrazeAPI\obj\Debug\net8.0\CardCrazeAPI.pdb
 C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCrazeAPI\obj\Debug\net8.0\CardCrazeAPI.genruntimeconfig.cache
 C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCrazeAPI\obj\Debug\net8.0\ref\CardCrazeAPI.dll
+C:\Users\adria\Documents\CardCraze\CardCraze\CardCrazeAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
