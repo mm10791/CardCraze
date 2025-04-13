@@ -29,7 +29,7 @@ namespace CardCraze.Controllers
         }
 
         [HttpGet("Shop/BrowseCards")]
-        public async Task<IActionResult> BrowseCards()
+        public async Task<IActionResult> BrowseCards(string rarity, decimal? minPrice, decimal? maxPrice)
         {
             var response = await _httpClient.GetAsync("api/card");
             var cards = new List<Card>();
@@ -40,8 +40,26 @@ namespace CardCraze.Controllers
                 cards = JsonConvert.DeserializeObject<List<Card>>(json);
             }
 
+            //apply filters
+            if (!string.IsNullOrEmpty(rarity))
+            {
+                cards = cards.Where(c => c.Rarity == rarity).ToList();
+            }
+
+            if (minPrice.HasValue)
+            {
+                cards = cards.Where(c => c.Price >= minPrice.Value).ToList();
+            }
+
+            if (maxPrice.HasValue)
+            {
+                cards = cards.Where(c => c.Price <= maxPrice.Value).ToList();
+            }
+
             return View("BrowseCards", cards);
         }
+
+
 
         [HttpPost]
         public async Task<IActionResult> AddToWishlist(int cardId)
