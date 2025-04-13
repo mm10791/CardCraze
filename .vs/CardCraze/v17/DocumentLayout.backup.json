@@ -1,89 +1,170 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\CSharpProj\\CardCraze\\",
+  "WorkspaceRootPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|g:\\csharpproj\\cardcraze\\cardcrazeapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\views\\shop\\browsecards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\shop\\browsecards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|g:\\csharpproj\\cardcraze\\cardcrazeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|g:\\csharpproj\\cardcraze\\cardcrazeapi\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\views\\shop\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\shop\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|g:\\csharpproj\\cardcraze\\cardcrazeapi\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardCrazeDb/True/SqlTable/dbo.Wishlists.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\models\\fakecarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\fakecarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|g:\\csharpproj\\cardcraze\\cardcrazeapi\\models\\cardcrazedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\models\\cardcrazedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|g:\\csharpproj\\cardcraze\\cardcrazeapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|g:\\csharpproj\\cardcraze\\cardcrazeapi\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\shop\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\shop\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\models\\featuredcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\models\\featuredcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\featuredcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\models\\fakecarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\models\\fakecarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardCrazeDb/True/SqlTable/dbo.CartItems.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|g:\\csharpproj\\cardcraze\\cardcrazeapi\\models\\featuredcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\migrations\\20250412040012_addwishlistandcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\migrations\\20250412040012_addwishlistandcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardCrazeDb/True/SqlTable/dbo.Cards.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\cardcraze.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\cardcraze.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\models\\cardcrazedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\models\\cardcrazedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\models\\featuredcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\models\\featuredcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\models\\cardcrazedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\models\\cardcrazedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcrazeapi\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEE93F5-2CAD-4DA9-8DD3-068587213503}|CardCrazeAPI\\CardCrazeAPI.csproj|solutionrelative:cardcrazeapi\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|c:\\users\\yorick zorn-fawcitt\\source\\repos\\cardcraze\\cardcraze\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -96,18 +177,18 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 13,
+          "DockedHeight": 152,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Account\\Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Account\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Account\\Dashboard.cshtml",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Account\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Account\\Dashboard.cshtml",
               "RelativeToolTip": "CardCraze\\Views\\Account\\Dashboard.cshtml",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAACkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-11T00:51:17.796Z",
               "IsPinned": true,
@@ -135,221 +216,209 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CardCraze\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CardCraze\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T04:02:03.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "CardCraze\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Controllers\\CardController.cs",
+              "RelativeToolTip": "CardCraze\\Controllers\\CardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:56:55.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Wishlists.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardCrazeDb/True/SqlTable/dbo.Wishlists.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardCrazeDb/True/SqlTable/dbo.Wishlists.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-12T20:07:37.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Account\\Login.cshtml",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "CardCraze\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-11T19:35:22.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\User.cs",
-              "RelativeDocumentMoniker": "CardCraze\\Models\\User.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\User.cs",
-              "RelativeToolTip": "CardCraze\\Models\\User.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:33:15.322Z",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CardCraze\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CardCraze\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T20:51:04.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Shop\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "CardCraze\\Views\\Shop\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Shop\\Confirmation.cshtml",
+              "RelativeToolTip": "CardCraze\\Views\\Shop\\Confirmation.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T20:22:54.541Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "CardCraze\\Controllers\\AccountController.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "CardCraze\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T04:07:15.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CardCrazeDbContext.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Models\\CardCrazeDbContext.cs",
-              "RelativeDocumentMoniker": "CardCrazeAPI\\Models\\CardCrazeDbContext.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Models\\CardCrazeDbContext.cs",
-              "RelativeToolTip": "CardCrazeAPI\\Models\\CardCrazeDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:42:44.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Wishlist.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\Wishlist.cs",
-              "RelativeDocumentMoniker": "CardCraze\\Models\\Wishlist.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\Wishlist.cs",
-              "RelativeToolTip": "CardCraze\\Models\\Wishlist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:49:53.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginResponse.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\LoginResponse.cs",
-              "RelativeDocumentMoniker": "CardCraze\\Models\\LoginResponse.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\LoginResponse.cs",
-              "RelativeToolTip": "CardCraze\\Models\\LoginResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:32:23.2Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "CardCrazeAPI\\Controllers\\UserController.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "CardCrazeAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:43:42.991Z",
+              "Title": "BrowseCards.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Shop\\BrowseCards.cshtml",
+              "RelativeDocumentMoniker": "CardCraze\\Views\\Shop\\BrowseCards.cshtml",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Shop\\BrowseCards.cshtml",
+              "RelativeToolTip": "CardCraze\\Views\\Shop\\BrowseCards.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T20:52:57.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "SignUp.cshtml",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Account\\SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Account\\SignUp.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Account\\SignUp.cshtml",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Account\\SignUp.cshtml",
               "RelativeToolTip": "CardCraze\\Views\\Account\\SignUp.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-11T19:42:19.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Program.cs",
-              "RelativeDocumentMoniker": "CardCrazeAPI\\Program.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Program.cs",
-              "RelativeToolTip": "CardCrazeAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "CardCraze\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "CardCraze\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wCoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:42:42.331Z",
+              "WhenOpened": "2025-04-12T16:54:07.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CardController.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Controllers\\CardController.cs",
-              "RelativeDocumentMoniker": "CardCrazeAPI\\Controllers\\CardController.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Controllers\\CardController.cs",
-              "RelativeToolTip": "CardCrazeAPI\\Controllers\\CardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CardCraze\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CardCraze\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T21:55:04.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginUser.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Models\\LoginUser.cs",
-              "RelativeDocumentMoniker": "CardCrazeAPI\\Models\\LoginUser.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Models\\LoginUser.cs",
-              "RelativeToolTip": "CardCrazeAPI\\Models\\LoginUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T21:52:22.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "User.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Models\\User.cs",
-              "RelativeDocumentMoniker": "CardCrazeAPI\\Models\\User.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Models\\User.cs",
-              "RelativeToolTip": "CardCrazeAPI\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T04:25:06.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "dbo.Users.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardCrazeDb/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardCrazeDb/True/SqlTable/dbo.Users.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-11T19:37:00.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginUser.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\LoginUser.cs",
-              "RelativeDocumentMoniker": "CardCraze\\Models\\LoginUser.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\LoginUser.cs",
-              "RelativeToolTip": "CardCraze\\Models\\LoginUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T21:39:57.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CardCraze\\Views\\Home\\Index.cshtml",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CardCraze\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-11T19:42:22.59Z"
+              "WhenOpened": "2025-04-11T04:07:15.627Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Shop.cshtml",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Shop\\Shop.cshtml",
-              "RelativeDocumentMoniker": "CardCraze\\Views\\Shop\\Shop.cshtml",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Shop\\Shop.cshtml",
-              "RelativeToolTip": "CardCraze\\Views\\Shop\\Shop.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-11T20:52:57.077Z"
+              "Title": "FakeCardData.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\FakeCardData.cs",
+              "RelativeDocumentMoniker": "CardCrazeAPI\\Models\\FakeCardData.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\FakeCardData.cs",
+              "RelativeToolTip": "CardCrazeAPI\\Models\\FakeCardData.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T23:18:19.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Card.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Models\\Card.cs",
-              "RelativeDocumentMoniker": "CardCrazeAPI\\Models\\Card.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Models\\Card.cs",
-              "RelativeToolTip": "CardCrazeAPI\\Models\\Card.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "FakeCardData.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\FakeCardData.cs",
+              "RelativeDocumentMoniker": "CardCraze\\Models\\FakeCardData.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\FakeCardData.cs",
+              "RelativeToolTip": "CardCraze\\Models\\FakeCardData.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:53:16.512Z"
+              "WhenOpened": "2025-04-12T23:22:51.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\SQLQuery2.sql",
+              "RelativeToolTip": "SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-12T23:24:53.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SQLQuery3.sql",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\SQLQuery3.sql",
+              "RelativeDocumentMoniker": "SQLQuery3.sql",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\SQLQuery3.sql",
+              "RelativeToolTip": "SQLQuery3.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-12T23:29:04.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CardCraze\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\User.cs",
+              "RelativeToolTip": "CardCraze\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:33:15.322Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "dbo.CartItems.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardCrazeDb/True/SqlTable/dbo.CartItems.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardCrazeDb/True/SqlTable/dbo.CartItems.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-12T20:07:31.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "FeaturedCards.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\FeaturedCards.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\FeaturedCards.cs",
               "RelativeDocumentMoniker": "CardCraze\\Models\\FeaturedCards.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\FeaturedCards.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\FeaturedCards.cs",
               "RelativeToolTip": "CardCraze\\Models\\FeaturedCards.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -357,23 +426,187 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\LoginUser.cs",
+              "RelativeDocumentMoniker": "CardCrazeAPI\\Models\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\LoginUser.cs",
+              "RelativeToolTip": "CardCrazeAPI\\Models\\LoginUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T21:52:22.496Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "CardCraze\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "CardCraze\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-12T20:53:25.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CardCraze\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CardCraze\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T19:42:22.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "CartItem.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "CardCraze\\Models\\CartItem.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\CartItem.cs",
               "RelativeToolTip": "CardCraze\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T20:50:16.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\Wishlist.cs",
+              "RelativeDocumentMoniker": "CardCraze\\Models\\Wishlist.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\Wishlist.cs",
+              "RelativeToolTip": "CardCraze\\Models\\Wishlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:49:53.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "CardCrazeAPI\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Controllers\\CardController.cs",
+              "RelativeToolTip": "CardCrazeAPI\\Controllers\\CardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T21:55:04.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250412040012_AddWishlistAndCart.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Migrations\\20250412040012_AddWishlistAndCart.cs",
+              "RelativeDocumentMoniker": "CardCrazeAPI\\Migrations\\20250412040012_AddWishlistAndCart.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Migrations\\20250412040012_AddWishlistAndCart.cs",
+              "RelativeToolTip": "CardCrazeAPI\\Migrations\\20250412040012_AddWishlistAndCart.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:48:43.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-12T19:03:08.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CardCrazeAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Program.cs",
+              "RelativeToolTip": "CardCrazeAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:42:42.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\LoginUser.cs",
+              "RelativeDocumentMoniker": "CardCraze\\Models\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\LoginUser.cs",
+              "RelativeToolTip": "CardCraze\\Models\\LoginUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T21:39:57.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dbo.Cards.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardCrazeDb/True/SqlTable/dbo.Cards.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardCrazeDb/True/SqlTable/dbo.Cards.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-12T16:26:39.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "CardCraze\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "CardCraze\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:32:23.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CardCrazeAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\User.cs",
+              "RelativeToolTip": "CardCrazeAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:25:06.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CardCraze.csproj",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\CardCraze.csproj",
+              "RelativeDocumentMoniker": "CardCraze\\CardCraze.csproj",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\CardCraze.csproj",
+              "RelativeToolTip": "CardCraze\\CardCraze.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T18:21:40.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CardCrazeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\CardCrazeDbContext.cs",
+              "RelativeDocumentMoniker": "CardCraze\\Models\\CardCrazeDbContext.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\Models\\CardCrazeDbContext.cs",
+              "RelativeToolTip": "CardCraze\\Models\\CardCrazeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:46:14.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "FeaturedCards.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Models\\FeaturedCards.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\FeaturedCards.cs",
               "RelativeDocumentMoniker": "CardCrazeAPI\\Models\\FeaturedCards.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\Models\\FeaturedCards.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\FeaturedCards.cs",
               "RelativeToolTip": "CardCrazeAPI\\Models\\FeaturedCards.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -381,20 +614,113 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 35,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "CardCrazeAPI\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\CartItem.cs",
+              "RelativeToolTip": "CardCrazeAPI\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T03:35:15.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CardCrazeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\CardCrazeDbContext.cs",
+              "RelativeDocumentMoniker": "CardCrazeAPI\\Models\\CardCrazeDbContext.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\CardCrazeDbContext.cs",
+              "RelativeToolTip": "CardCrazeAPI\\Models\\CardCrazeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:42:44.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "CardCrazeAPI\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\Card.cs",
+              "RelativeToolTip": "CardCrazeAPI\\Models\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:53:16.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CardCrazeAPI\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CardCrazeAPI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T03:49:31.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\Wishlist.cs",
+              "RelativeDocumentMoniker": "CardCrazeAPI\\Models\\Wishlist.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Models\\Wishlist.cs",
+              "RelativeToolTip": "CardCrazeAPI\\Models\\Wishlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T03:31:58.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CardCrazeAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CardCrazeAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:43:42.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "CardCrazeAPI\\Controllers\\WishlistController.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "CardCrazeAPI\\Controllers\\WishlistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T03:38:21.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "APIClient.cs",
-              "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\APIClient.cs",
+              "DocumentMoniker": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\APIClient.cs",
               "RelativeDocumentMoniker": "CardCraze\\APIClient.cs",
-              "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\APIClient.cs",
+              "ToolTip": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\APIClient.cs",
               "RelativeToolTip": "CardCraze\\APIClient.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T19:42:29.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardCrazeDb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardCrazeDb/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-11T19:37:00.314Z"
             }
           ]
         },
         {
-          "DockedHeight": 26,
+          "DockedHeight": 74,
           "SelectedChildIndex": -1,
           "Children": [
             {

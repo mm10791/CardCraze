@@ -1,0 +1,194 @@
+﻿<!-- Author: Max -->
+@model List<CardCraze.Models.Card>
+@{
+    var rarity = Context.Request.Query["rarity"].ToString();
+    var minPrice = Context.Request.Query["minPrice"].ToString();
+    var maxPrice = Context.Request.Query["maxPrice"].ToString();
+}
+
+<link rel="stylesheet" href="~/css/style.css" />
+
+<!-- override styles -->
+<style>
+    body {
+        background-image: url('/Images/backgroundSunsetImage.png');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    .featured-cards {
+        padding: 40px;
+        text-align: center;
+    }
+
+    .filter-section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 15px;
+        padding: 20px;
+        margin-bottom: 40px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 10px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+        .filter-section select,
+        .filter-section input {
+            padding: 10px 15px;
+            border-radius: 8px;
+            border: 1px solid #aaa;
+            font-size: 1rem;
+            min-width: 150px;
+            background-color: white;
+        }
+
+        .filter-section button {
+            padding: 10px 20px;
+            background-color: #ce6a76;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+            .filter-section button:hover {
+                background-color: #c44b5a;
+            }
+
+    .clear-button {
+        padding: 10px 20px;
+        background-color: #ccc;
+        color: #333;
+        text-decoration: none;
+        border-radius: 8px;
+        font-size: 1rem;
+        transition: background-color 0.3s ease;
+    }
+
+        .clear-button:hover {
+            background-color: #aaa;
+        }
+
+    .card-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 30px;
+        justify-content: center;
+    }
+
+    .card {
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        transition: transform 0.2s;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+    .card-image {
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        border-radius: 8px;
+        margin-bottom: 15px;
+    }
+
+    .card-title {
+        font-size: 1.3rem;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+
+    .card-rarity,
+    .card-price {
+        margin: 3px 0;
+    }
+
+    .card-button {
+        margin-top: 10px;
+    }
+
+        .card-button form {
+            margin: 5px 0;
+        }
+
+        .card-button button {
+            background-color: #4caf50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+            .card-button button:hover {
+                background-color: #388e3c;
+            }
+</style>
+
+<div class="featured-cards">
+    <h1 class="text-white text-4xl font-bold mb-8">Browse Cards</h1>
+
+    <!-- Filter Section -->
+    <form asp-controller="Shop" asp-action="BrowseCards" method="get" class="filter-section">
+        <select name="rarity">
+            <option value="">All Rarities</option>
+            <option value="Common">Common</option>
+            <option value="Rare">Rare</option>
+            <option value="Legendary">Legendary</option>
+        </select>
+
+        <input type="number" name="minPrice" placeholder="Min Price" />
+        <input type="number" name="maxPrice" placeholder="Max Price" />
+
+        <button type="submit">Filter</button>
+        <a href="/Shop/BrowseCards" class="clear-button">Clear Filters</a>
+    </form>
+
+
+
+    <!-- Cards Grid -->
+    <div class="card-grid">
+        @foreach (var card in Model)
+        {
+            <div class="card">
+                <img src="@card.ImageURL" alt="@card.Name" class="card-image" />
+                <div class="card-title">@card.Name</div>
+                <div class="card-rarity">Rarity: @card.Rarity</div>
+                <div class="card-price">Price: $@card.Price</div>
+
+                <div class="card-button">
+                    <form asp-action="AddToWishlist" asp-controller="Shop" method="post" style="margin-top: 10px;">
+                        <input type="hidden" name="cardId" value="@card.CardID" />
+                        <button type="submit">Add to Wishlist</button>
+                    </form>
+
+                    <form asp-action="AddToCart" asp-controller="Shop" method="post">
+                        <input type="hidden" name="cardId" value="@card.CardID" />
+                        <button type="submit">Add to Cart</button>
+                    </form>
+
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+
+
+
