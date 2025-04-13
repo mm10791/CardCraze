@@ -10,6 +10,25 @@
 
     <!-- adding custom styles -->
     <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+        }
+
+        main {
+            flex-grow: 1;
+        }
+
+        footer {
+            background-color: rgba(248, 247, 251, 0.9);
+            padding: 20px 0;
+            text-align: center;
+            position: relative;
+            width: 100%;
+        }
+
         .navbar-custom {
             background-color: #f8f7fb;
         }
@@ -48,6 +67,7 @@
             position: relative;
             bottom: 0;
             width: 100%;
+            margin-top: auto;
         }
 
         footer .container {

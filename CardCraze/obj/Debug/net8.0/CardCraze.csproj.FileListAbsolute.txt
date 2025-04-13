@@ -340,7 +340,6 @@ C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\obj\Debug\net8.0\s
 C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CardCraze.props
 C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CardCraze.props
 C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\obj\Debug\net8.0\CardCraze.csproj.Up2Date
 C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\obj\Debug\net8.0\CardCraze.genruntimeconfig.cache
 C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\obj\Debug\net8.0\ref\CardCraze.dll
@@ -518,3 +517,16 @@ G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\CardCraze.pdb
 G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\CardCraze.genruntimeconfig.cache
 G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\ref\CardCraze.dll
 G:\CSharpProj\CardCraze\CardCraze\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\bin\Debug\net8.0\CardCrazeAPI.deps.json
+C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\bin\Debug\net8.0\CardCrazeAPI.runtimeconfig.json
+C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\bin\Debug\net8.0\CardCrazeAPI.staticwebassets.endpoints.json
+C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\bin\Debug\net8.0\CardCrazeAPI.exe
+C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\bin\Debug\net8.0\CardCrazeAPI.dll
+C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\bin\Debug\net8.0\CardCrazeAPI.pdb
+C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\obj\Debug\net8.0\CardCraze.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

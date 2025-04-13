@@ -1,4 +1,6 @@
-﻿namespace CardCraze
+﻿//Author of the class: Max
+
+namespace CardCraze
 {
     using System;
     using System.Net.Http;

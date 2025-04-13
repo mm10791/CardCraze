@@ -1,4 +1,4 @@
-﻿<!-- Authored by Tristan-->
+﻿<!-- Authored by Tristan -->
 @model User
 
 @{
@@ -12,31 +12,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewData["Title"]</title>
     <link href="~/css/style.css" rel="stylesheet" />
+    <!-- style created by Max -->
     <style>
         body {
             margin: 0;
-            display: block;
+            display: flex;
+            flex-direction: column;
             font-family: Arial, sans-serif;
             background-image: url('/images/backgroundSunsetImage.png');
-            
+            background-size: cover;
+            background-position: center;
+            min-height: 100vh;
         }
 
         .hero {
             width: 100%;
             padding: 40px 20px;
-            background-color: #dfffe0;
             text-align: center;
+            color: #fff;
         }
 
             .hero h1 {
                 margin: 0 0 10px;
-                font-size: 2.5rem;
-                color: #555;
+                font-size: 3rem;
             }
 
             .hero p {
-                font-size: 1.2rem;
-                color: #555;
+                font-size: 1.5rem;
+                margin-bottom: 20px;
+                color: #ddd;
             }
 
         .form-section {
@@ -49,58 +53,87 @@
         .form-container {
             max-width: 400px;
             width: 100%;
-            background-color: white;
+            background-color: #fff;
             padding: 30px;
-            border-radius: 8px;
+            border-radius: 10px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            text-align: center;
         }
 
         .form-group {
-            margin-bottom: 15px;
+            margin-bottom: 20px;
         }
 
         .btn-primary {
-            width: 100%;
-            padding: 10px;
-            color: #555;
-            background-color: #b2ccb3;
-        }
-
-        .character-image {
+            width: 250px;
+            padding: 15px 30px;
+            color: #fff;
+            background-color: #ce6a76;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1.1rem;
+            transition: background-color 0.3s;
             text-align: center;
-            margin-bottom: -75px;
+            margin-bottom: 15px;
         }
 
-            .character-image img {
-                max-width: 150px;
-                height: auto;
-                margin-bottom: -10px;
+        .user-actions ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .user-actions li {
+            margin: 10px 0;
+        }
+
+        .user-actions a {
+            display: inline-block;
+            width: 250px;
+            padding: 15px 30px;
+            color: #fff;
+            background-color: #ce6a76;
+            text-decoration: none;
+            font-size: 1.1rem;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+            text-align: center;
+        }
+
+            .user-actions a:hover {
+                background-color: #c44b5a;
             }
 
-
+        .button-box {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-top: 20px;
+            align-items: center;
+        }
     </style>
 </head>
 <body>
 
-    <!-- Title  -->
+    <!-- Title -->
     <section class="hero">
         <div class="hero-content">
             <h1>User Account</h1>
+            <p>Manage your account, orders, and card collection.</p>
             <!-- Dashboard options -->
             <section class="user-actions">
-                <h1>Welcome, @Model.Name</h1>
-                <ul>
-                    <li><a href="@Url.Action("Shop", "Shop")">Home</a></li>
-                    <li><a href="@Url.Action("UpdateProfile", "Account")">Update Profile Details</a></li>
-                    <li><a href="@Url.Action("OrderHistory", "Account")">Order History</a></li>
-                    <li><a href="@Url.Action("Collection", "Account")">Card Collection</a></li>
-                </ul>
+                <h2>Welcome, @Model.Name</h2>
+                <div class="button-box">
+                    <a href="@Url.Action("BrowseCards", "Shop")">Browse Cards</a>
+                    <a href="@Url.Action("UpdateProfile", "Account")">Update Profile Details</a>
+                    <a href="@Url.Action("OrderHistory", "Account")">Order History</a>
+                    <a href="@Url.Action("Collection", "Account")">Card Collection</a>
+                </div>
             </section>
-
         </div>
     </section>
 
-
-
 </body>
 </html>
+

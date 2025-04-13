@@ -45,15 +45,15 @@ namespace CardCraze.Controllers
 
         }
 
-
-
         [HttpGet]
         public IActionResult Login()
         {
+            if (HttpContext.Session.GetInt32("UserId") != null)
+            {
+                return RedirectToAction("Dashboard");
+            }
             return View();
         }
-
-
 
         [HttpPost]
         public async Task<IActionResult> Login(LoginUser model)
@@ -81,12 +81,6 @@ namespace CardCraze.Controllers
             HttpContext.Session.SetInt32("UserId", notification.UserId);
             return RedirectToAction("Dashboard", new { userId = notification.UserId });
         }
-
-
-
-
-
-
 
         public async Task<IActionResult> Dashboard(int userId)
         {
