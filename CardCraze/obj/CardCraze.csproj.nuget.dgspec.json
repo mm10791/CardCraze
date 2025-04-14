@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\CardCraze.csproj": {}
+    "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\CardCraze.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj": {
+    "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
+        "projectUniqueName": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
         "projectName": "CardCrazeAPI",
-        "projectPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
-        "packagesPath": "C:\\Users\\Yorick Zorn-Fawcitt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\obj\\",
+        "projectPath": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
+        "packagesPath": "C:\\Users\\AdrianPC\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCrazeAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Yorick Zorn-Fawcitt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AdrianPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -103,20 +102,20 @@
         }
       }
     },
-    "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\CardCraze.csproj": {
+    "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\CardCraze.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\CardCraze.csproj",
+        "projectUniqueName": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\CardCraze.csproj",
         "projectName": "CardCraze",
-        "projectPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\CardCraze.csproj",
-        "packagesPath": "C:\\Users\\Yorick Zorn-Fawcitt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\obj\\",
+        "projectPath": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\CardCraze.csproj",
+        "packagesPath": "C:\\Users\\AdrianPC\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Yorick Zorn-Fawcitt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AdrianPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -125,15 +124,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj": {
-                "projectPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj"
+              "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj": {
+                "projectPath": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj"
               }
             }
           }

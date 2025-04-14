@@ -17,73 +17,73 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CardCraze
 build_property.RootNamespace = CardCraze
-build_property.ProjectDir = C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze\
+build_property.ProjectDir = E:\Projects\.NET\CardCrazeRepo\CardCraze\CardCraze\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Yorick Zorn-Fawcitt\source\repos\CardCraze\CardCraze
+build_property.MSBuildProjectDirectory = E:\Projects\.NET\CardCrazeRepo\CardCraze\CardCraze
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/Account/Dashboard.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/Account/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/Account/Login.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/Account/SignUp.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/Account/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/Cart/Confirmation.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/Cart/Confirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDb25maXJtYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/Cart/MyCart.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/Cart/MyCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxNeUNhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/Home/Index.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/Home/Privacy.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/Shared/Error.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/Shop/BrowseCards.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/Shop/BrowseCards.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxCcm93c2VDYXJkcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/Shop/Confirmation.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/Shop/Confirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxDb25maXJtYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/Wishlist/MyWishlist.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/Wishlist/MyWishlist.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lzaGxpc3RcTXlXaXNobGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/_ViewImports.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/_ViewStart.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yorick Zorn-Fawcitt/source/repos/CardCraze/CardCraze/Views/Shared/_Layout.cshtml]
+[E:/Projects/.NET/CardCrazeRepo/CardCraze/CardCraze/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k8yltmwm13
