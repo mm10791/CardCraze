@@ -13,12 +13,9 @@ namespace CardCraze.Controllers
         private readonly HttpClient _httpClient;
         private readonly CardCrazeDbContext _context;
 
-        public ShopController(CardCrazeDbContext context)
+        public ShopController(CardCrazeDbContext context, HttpClient httpClient = null)
         {
-            _httpClient = new HttpClient
-            {
-                BaseAddress = new Uri("https://localhost:7283/")
-            };
+            _httpClient = httpClient ?? new HttpClient { BaseAddress = new Uri("https://localhost:7283/") };
             _context = context;
         }
 

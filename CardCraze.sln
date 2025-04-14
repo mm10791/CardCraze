@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardCraze", "CardCraze\Card
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardCrazeAPI", "CardCrazeAPI\CardCrazeAPI.csproj", "{3FEE93F5-2CAD-4DA9-8DD3-068587213503}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardCraze.Tests", "CardCraze.Tests\CardCraze.Tests.csproj", "{3ADEE1BC-15C7-4A8B-A2F5-ECBD9F27E2BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3FEE93F5-2CAD-4DA9-8DD3-068587213503}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FEE93F5-2CAD-4DA9-8DD3-068587213503}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FEE93F5-2CAD-4DA9-8DD3-068587213503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADEE1BC-15C7-4A8B-A2F5-ECBD9F27E2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADEE1BC-15C7-4A8B-A2F5-ECBD9F27E2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADEE1BC-15C7-4A8B-A2F5-ECBD9F27E2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADEE1BC-15C7-4A8B-A2F5-ECBD9F27E2BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
