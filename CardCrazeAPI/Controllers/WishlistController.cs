@@ -15,8 +15,6 @@ namespace CardCrazeAPI.Controllers
             _dbContext = _context;
         }
 
-
-        //GET: api/Wishlist/{id}
         [HttpGet("{id}")]
         public async Task<ActionResult<IEnumerable<Wishlist>>> GetWishlist(int id)
         {
@@ -25,7 +23,6 @@ namespace CardCrazeAPI.Controllers
                             .ToListAsync();
         }
 
-        //POST: api/Wishlist
         [HttpPost]
         public async Task<ActionResult<Wishlist>> AddToWishlist(Wishlist item)
         {
@@ -34,7 +31,6 @@ namespace CardCrazeAPI.Controllers
             return Ok(GetWishlist(item.UserID));
         }
 
-        //DELETE: api/Wishlist
         [HttpDelete("{id}")]
         public async Task<ActionResult> RemoveFromList(int id)
         {

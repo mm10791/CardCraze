@@ -16,7 +16,6 @@ namespace CardCrazeAPI.Controllers
             _context = context;
         }
 
-        //GET: api/Cart/{id}
         [HttpGet("{id}")]
         public async Task<ActionResult<IEnumerable<CartItem>>> GetCart(int id)
         {
@@ -26,7 +25,6 @@ namespace CardCrazeAPI.Controllers
                 .ToListAsync();
         }
 
-        //POST: api/Cart
         [HttpPost]
         public async Task<ActionResult<CartItem>> AddToCart(CartItem item)
         {
@@ -44,7 +42,6 @@ namespace CardCrazeAPI.Controllers
             return Ok(item);
         }
 
-        //PUT: api/Cart
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateQuantity(int id, [FromBody] int quantity)
         {
@@ -60,7 +57,6 @@ namespace CardCrazeAPI.Controllers
             return Ok(item);
         }
 
-        //DELETE: api/Cart
         [HttpDelete("{id}")]
         public async Task<IActionResult> RemoveFromCart(int id)
         {

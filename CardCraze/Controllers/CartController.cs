@@ -18,8 +18,6 @@ namespace CardCraze.Controllers
             };
             _context = context;
         }
-
-        //View user's cart
         [HttpGet]
         public async Task<IActionResult> MyCart()
         {
@@ -33,8 +31,7 @@ namespace CardCraze.Controllers
 
             return View(cartItems);
         }
-        
-        //Update amount of cards within the cart
+
         public async Task<IActionResult> UpdateQuantity(int itemId, int quantity)
         {
             var item = await _context.CartItems.FindAsync(itemId);
@@ -48,7 +45,6 @@ namespace CardCraze.Controllers
             return RedirectToAction("MyCart");
         }
 
-        //Remove the Card from Cart if user no longer wants it
         [HttpPost]
         public async Task<IActionResult> Remove(int itemId)
         {
@@ -62,8 +58,6 @@ namespace CardCraze.Controllers
             return RedirectToAction("MyCart");
 
         }
-
-        //Send user to confirmation page once order is "placed" 
         [HttpPost]
         public IActionResult Confirmation(string action)
         {
