@@ -19,7 +19,7 @@ namespace CardCraze.Controllers
             };
             _context = context;
         }
-
+        //View entire Wishlist list and display each card based on user
         [HttpGet]
         public async Task<IActionResult> MyWishlist()
         {
@@ -33,7 +33,7 @@ namespace CardCraze.Controllers
 
             return View(wishlist);
         }
-
+        // Remove card from wishlist
         [HttpPost]
         public async Task<IActionResult> Remove(int id)
         {
