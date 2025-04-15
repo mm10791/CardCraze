@@ -1,4 +1,4 @@
-﻿//author: Tristan Ung
+﻿//author: Tristan
 using System.ComponentModel.DataAnnotations;
 namespace CardCraze.Models
 {

@@ -165,5 +165,33 @@ namespace CardCraze.Controllers
         }
 
 
+        //get cards user has collected and display
+        [HttpGet]
+        public async Task<IActionResult> Collection(string rarity)
+        {
+            var userId = HttpContext.Session.GetInt32("UserId");
+            if (userId == null) return RedirectToAction("Login");
+
+            var response = await _httpClient.GetAsync($"api/User/{userId}/collection");
+
+            if (!response.IsSuccessStatusCode)
+            {
+                ViewBag.Message = "Unable to load collection!!";
+                return View(new List<OrderHistory>());
+            }
+
+            var json = await response.Content.ReadAsStringAsync();
+            var collection = JsonConvert.DeserializeObject<List<OrderHistory>>(json);
+
+            //below is for filtering when in page itself, pulls based off of rarity selected
+            if (rarity != null && rarity != "")
+            {
+                collection = collection.Where(c => c.Card.Rarity == rarity).ToList();
+            }
+
+            return View(collection);
+        }
+
+
     }
 }

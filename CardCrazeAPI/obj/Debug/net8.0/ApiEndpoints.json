@@ -262,6 +262,22 @@
   },
   {
     "ContainingType": "CardCrazeAPI.Controllers.UserController",
+    "Method": "GetUserCardCollection",
+    "RelativePath": "api/User/{userId}/collection",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CardCrazeAPI.Controllers.UserController",
     "Method": "Login",
     "RelativePath": "api/User/login",
     "HttpMethod": "POST",
