@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "b4DDZIkXHaitsdFoCCnTPNMHoFdagdOR2f0sARC8Ea0=",
+  "Hash": "he4TDUIVrC2B/xs7nB4bV+S5iFDzpTMrMR68BVIF9VA=",
   "Source": "CardCraze",
   "BasePath": "_content/CardCraze",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
       "Version": 2,
       "Source": "CardCrazeAPI",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "CardCraze\\wwwroot",
       "Source": "CardCraze",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CardCraze.styles.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CardCraze.styles.css",
       "SourceId": "CardCraze",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "CardCraze#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -47,13 +47,13 @@
       "Integrity": "7JOKwhvHaonYnaemDTf1OAjX+3GEbyk/OOEmLQDBe/M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CardCraze.styles.css"
+      "OriginalItemSpec": "G:\\CSharpProj\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CardCraze.styles.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CardCraze.bundle.scp.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CardCraze.bundle.scp.css",
       "SourceId": "CardCraze",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "CardCraze#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -68,13 +68,13 @@
       "Integrity": "7JOKwhvHaonYnaemDTf1OAjX+3GEbyk/OOEmLQDBe/M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CardCraze.bundle.scp.css"
+      "OriginalItemSpec": "G:\\CSharpProj\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CardCraze.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\css\\site.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\css\\site.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -92,10 +92,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\css\\style.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\css\\style.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -113,10 +113,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\favicon.ico",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\favicon.ico",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -134,10 +134,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundImage.PNG",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundImage.PNG",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/backgroundImage#[.{fingerprint}]?.PNG",
       "AssetKind": "All",
@@ -155,10 +155,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\backgroundImage.PNG"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundSundownImage.jpg",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundSundownImage.jpg",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/backgroundSundownImage#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -176,10 +176,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\backgroundSundownImage.jpg"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundSunsetImage.png",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundSunsetImage.png",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/backgroundSunsetImage#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -197,10 +197,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\backgroundSunsetImage.png"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\bulbasaurCard.jpg",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\bulbasaurCard.jpg",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/bulbasaurCard#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -218,10 +218,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bulbasaurCard.jpg"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\charizardCard.jpg",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\charizardCard.jpg",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/charizardCard#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -239,10 +239,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\charizardCard.jpg"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\gengarCard.png",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\gengarCard.png",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/gengarCard#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -260,10 +260,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\gengarCard.png"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\giratinaCard.jpg",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\giratinaCard.jpg",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/giratinaCard#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -281,10 +281,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\giratinaCard.jpg"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\greninjaCard.png",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\greninjaCard.png",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/greninjaCard#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\greninjaCard.png"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\growlitheCard.png",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\growlitheCard.png",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/growlitheCard#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\growlitheCard.png"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\jigglypuffCard.png",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\jigglypuffCard.png",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/jigglypuffCard#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -344,10 +344,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\jigglypuffCard.png"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\mewCard.png",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\mewCard.png",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/mewCard#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -365,10 +365,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mewCard.png"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\mewImage.png",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\mewImage.png",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/mewImage#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -386,10 +386,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mewImage.png"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\mewtwoCard.jpg",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\mewtwoCard.jpg",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/mewtwoCard#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -407,10 +407,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mewtwoCard.jpg"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\pikachuCard.jpg",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\pikachuCard.jpg",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/pikachuCard#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -428,10 +428,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\pikachuCard.jpg"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\snorlax.PNG",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\snorlax.PNG",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/snorlax#[.{fingerprint}]?.PNG",
       "AssetKind": "All",
@@ -449,10 +449,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\snorlax.PNG"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\squirtleCard.jpg",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\squirtleCard.jpg",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/squirtleCard#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -470,10 +470,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\squirtleCard.jpg"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\zekromCard.jpg",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\zekromCard.jpg",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "Images/zekromCard#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -491,10 +491,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\zekromCard.jpg"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\js\\site.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\js\\site.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -512,10 +512,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -533,10 +533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -554,10 +554,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -575,10 +575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -596,10 +596,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -617,10 +617,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -638,10 +638,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -659,10 +659,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -722,10 +722,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -743,10 +743,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -764,10 +764,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -785,10 +785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -806,10 +806,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -827,10 +827,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -848,10 +848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -869,10 +869,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -890,10 +890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -911,10 +911,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -932,10 +932,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -953,10 +953,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -974,10 +974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -995,10 +995,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1016,10 +1016,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1058,10 +1058,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1079,10 +1079,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1121,10 +1121,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1142,10 +1142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1163,10 +1163,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1184,10 +1184,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1205,10 +1205,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1226,10 +1226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1247,10 +1247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1268,10 +1268,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1289,10 +1289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1310,10 +1310,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1331,10 +1331,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1352,10 +1352,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1373,10 +1373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1415,10 +1415,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1436,10 +1436,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1457,10 +1457,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1478,10 +1478,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1520,10 +1520,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1541,10 +1541,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1562,10 +1562,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1583,10 +1583,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1604,10 +1604,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1625,10 +1625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1646,10 +1646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1667,10 +1667,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1688,10 +1688,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "CardCraze",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\",
+      "ContentRoot": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\",
       "BasePath": "_content/CardCraze",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1712,7 +1712,7 @@
   "Endpoints": [
     {
       "Route": "CardCraze.bundle.scp.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CardCraze.bundle.scp.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CardCraze.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1733,7 +1733,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Tue, 15 Apr 2025 04:27:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1749,7 +1749,7 @@
     },
     {
       "Route": "CardCraze.kg89d34ema.bundle.scp.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CardCraze.bundle.scp.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CardCraze.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1770,7 +1770,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Tue, 15 Apr 2025 04:27:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1794,7 +1794,7 @@
     },
     {
       "Route": "CardCraze.kg89d34ema.styles.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CardCraze.styles.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CardCraze.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1815,7 +1815,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Tue, 15 Apr 2025 04:27:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1839,7 +1839,7 @@
     },
     {
       "Route": "CardCraze.styles.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CardCraze.styles.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CardCraze.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1860,7 +1860,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Tue, 15 Apr 2025 04:27:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1876,7 +1876,7 @@
     },
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\css\\site.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1897,7 +1897,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1921,7 +1921,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\css\\site.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1942,7 +1942,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1958,7 +1958,7 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\css\\style.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1979,7 +1979,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1995,7 +1995,7 @@
     },
     {
       "Route": "css/style.p644i7nejv.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\css\\style.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2016,7 +2016,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2040,7 +2040,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\favicon.ico",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2061,7 +2061,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2085,7 +2085,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\favicon.ico",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2106,7 +2106,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2122,7 +2122,7 @@
     },
     {
       "Route": "Images/backgroundImage.2r12r154v2.PNG",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundImage.PNG",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundImage.PNG",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2143,7 +2143,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2167,7 +2167,7 @@
     },
     {
       "Route": "Images/backgroundImage.PNG",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundImage.PNG",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundImage.PNG",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2188,7 +2188,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2204,7 +2204,7 @@
     },
     {
       "Route": "Images/backgroundSundownImage.13ubz9sylo.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundSundownImage.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundSundownImage.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2225,7 +2225,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2249,7 +2249,7 @@
     },
     {
       "Route": "Images/backgroundSundownImage.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundSundownImage.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundSundownImage.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2270,7 +2270,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2286,7 +2286,7 @@
     },
     {
       "Route": "Images/backgroundSunsetImage.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundSunsetImage.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundSunsetImage.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2307,7 +2307,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Fri, 11 Apr 2025 04:31:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2323,7 +2323,7 @@
     },
     {
       "Route": "Images/backgroundSunsetImage.pp0bugdea7.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundSunsetImage.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\backgroundSunsetImage.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2344,7 +2344,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Fri, 11 Apr 2025 04:31:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2368,7 +2368,7 @@
     },
     {
       "Route": "Images/bulbasaurCard.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\bulbasaurCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\bulbasaurCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2389,7 +2389,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2405,7 +2405,7 @@
     },
     {
       "Route": "Images/bulbasaurCard.m2et4in0he.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\bulbasaurCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\bulbasaurCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2426,7 +2426,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2450,7 +2450,7 @@
     },
     {
       "Route": "Images/charizardCard.0h1u6fgw4g.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\charizardCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\charizardCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2471,7 +2471,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2495,7 +2495,7 @@
     },
     {
       "Route": "Images/charizardCard.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\charizardCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\charizardCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2516,7 +2516,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2532,7 +2532,7 @@
     },
     {
       "Route": "Images/gengarCard.gb30dq6p62.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\gengarCard.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\gengarCard.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2553,7 +2553,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2577,7 +2577,7 @@
     },
     {
       "Route": "Images/gengarCard.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\gengarCard.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\gengarCard.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2598,7 +2598,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2614,7 +2614,7 @@
     },
     {
       "Route": "Images/giratinaCard.2nc6wm1bk1.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\giratinaCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\giratinaCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2635,7 +2635,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2659,7 +2659,7 @@
     },
     {
       "Route": "Images/giratinaCard.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\giratinaCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\giratinaCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2680,7 +2680,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2696,7 +2696,7 @@
     },
     {
       "Route": "Images/greninjaCard.1axweeedni.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\greninjaCard.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\greninjaCard.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2717,7 +2717,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2741,7 +2741,7 @@
     },
     {
       "Route": "Images/greninjaCard.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\greninjaCard.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\greninjaCard.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2762,7 +2762,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2778,7 +2778,7 @@
     },
     {
       "Route": "Images/growlitheCard.9yvd2fcw52.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\growlitheCard.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\growlitheCard.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2799,7 +2799,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2823,7 @@
     },
     {
       "Route": "Images/growlitheCard.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\growlitheCard.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\growlitheCard.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2844,7 +2844,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2860,7 +2860,7 @@
     },
     {
       "Route": "Images/jigglypuffCard.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\jigglypuffCard.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\jigglypuffCard.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2881,7 +2881,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2897,7 +2897,7 @@
     },
     {
       "Route": "Images/jigglypuffCard.t93pc39l1z.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\jigglypuffCard.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\jigglypuffCard.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2918,7 +2918,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2942,7 +2942,7 @@
     },
     {
       "Route": "Images/mewCard.6ipctyufcm.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\mewCard.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\mewCard.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2963,7 +2963,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2987,7 +2987,7 @@
     },
     {
       "Route": "Images/mewCard.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\mewCard.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\mewCard.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3008,7 +3008,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3024,7 +3024,7 @@
     },
     {
       "Route": "Images/mewImage.muplh5vf5a.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\mewImage.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\mewImage.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3045,7 +3045,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3069,7 +3069,7 @@
     },
     {
       "Route": "Images/mewImage.png",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\mewImage.png",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\mewImage.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3090,7 +3090,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3106,7 +3106,7 @@
     },
     {
       "Route": "Images/mewtwoCard.a7vk6r9tlf.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\mewtwoCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\mewtwoCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3127,7 +3127,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3151,7 +3151,7 @@
     },
     {
       "Route": "Images/mewtwoCard.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\mewtwoCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\mewtwoCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3172,7 +3172,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3188,7 +3188,7 @@
     },
     {
       "Route": "Images/pikachuCard.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\pikachuCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\pikachuCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3209,7 +3209,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3225,7 +3225,7 @@
     },
     {
       "Route": "Images/pikachuCard.pirwb9j7av.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\pikachuCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\pikachuCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3246,7 +3246,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3270,7 +3270,7 @@
     },
     {
       "Route": "Images/snorlax.PNG",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\snorlax.PNG",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\snorlax.PNG",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3291,7 +3291,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 13:59:59 GMT"
+          "Value": "Wed, 09 Apr 2025 04:18:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3307,7 +3307,7 @@
     },
     {
       "Route": "Images/snorlax.zmnh5chhqa.PNG",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\snorlax.PNG",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\snorlax.PNG",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3328,7 +3328,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 13:59:59 GMT"
+          "Value": "Wed, 09 Apr 2025 04:18:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3352,7 +3352,7 @@
     },
     {
       "Route": "Images/squirtleCard.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\squirtleCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\squirtleCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3373,7 +3373,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3389,7 +3389,7 @@
     },
     {
       "Route": "Images/squirtleCard.olr26qe7bz.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\squirtleCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\squirtleCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3410,7 +3410,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 19:42:42 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3434,7 +3434,7 @@
     },
     {
       "Route": "Images/zekromCard.exjz7vyso5.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\zekromCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\zekromCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3455,7 +3455,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3479,7 +3479,7 @@
     },
     {
       "Route": "Images/zekromCard.jpg",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\Images\\zekromCard.jpg",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\Images\\zekromCard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3500,7 +3500,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 21:47:03 GMT"
+          "Value": "Sun, 13 Apr 2025 18:02:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3516,7 +3516,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\js\\site.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3537,7 +3537,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3553,7 +3553,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\js\\site.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3574,7 +3574,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3598,7 +3598,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3619,7 +3619,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3635,7 +3635,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3656,7 +3656,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3680,7 +3680,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3701,7 +3701,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3717,7 +3717,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3738,7 +3738,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3762,7 +3762,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3783,7 +3783,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3799,7 +3799,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3820,7 +3820,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3844,7 +3844,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3865,7 +3865,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3881,7 +3881,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3902,7 +3902,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3926,7 +3926,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3947,7 +3947,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3963,7 +3963,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3984,7 +3984,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4008,7 +4008,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4029,7 +4029,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4045,7 +4045,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.gjcw7pocpk.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4066,7 +4066,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4090,7 +4090,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.6l4ir0ityv.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4111,7 +4111,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4135,7 +4135,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4156,7 +4156,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4172,7 +4172,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4193,7 +4193,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4217,7 +4217,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4238,7 +4238,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4254,7 +4254,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4275,7 +4275,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4291,7 +4291,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4312,7 +4312,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4328,7 +4328,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4349,7 +4349,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4373,7 +4373,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4394,7 +4394,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4418,7 +4418,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4439,7 +4439,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4455,7 +4455,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4476,7 +4476,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4500,7 +4500,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4521,7 +4521,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4537,7 +4537,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4558,7 +4558,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4582,7 +4582,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4603,7 +4603,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4619,7 +4619,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4640,7 +4640,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4664,7 +4664,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4685,7 +4685,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4701,7 +4701,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4722,7 +4722,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4746,7 +4746,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4767,7 +4767,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4783,7 +4783,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4804,7 +4804,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4820,7 +4820,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4841,7 +4841,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4865,7 +4865,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4886,7 +4886,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4910,7 +4910,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4931,7 +4931,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4947,7 +4947,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4968,7 +4968,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4992,7 +4992,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5013,7 +5013,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5029,7 +5029,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5050,7 +5050,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5066,7 +5066,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5087,7 +5087,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5103,7 +5103,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5124,7 +5124,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5148,7 +5148,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5169,7 +5169,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5193,7 +5193,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5214,7 +5214,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5238,7 +5238,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5259,7 +5259,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5283,7 +5283,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5304,7 +5304,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5320,7 +5320,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5341,7 +5341,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5365,7 +5365,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5386,7 +5386,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5402,7 +5402,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5423,7 +5423,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5439,7 +5439,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5460,7 +5460,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5476,7 +5476,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5497,7 +5497,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5521,7 +5521,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5542,7 +5542,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5566,7 +5566,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5587,7 +5587,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5603,7 +5603,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5624,7 +5624,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5648,7 +5648,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5669,7 +5669,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5685,7 +5685,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5706,7 +5706,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5730,7 +5730,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5751,7 +5751,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5767,7 +5767,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5788,7 +5788,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5804,7 +5804,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5825,7 +5825,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5849,7 +5849,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5870,7 +5870,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5886,7 +5886,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5907,7 +5907,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5931,7 +5931,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5952,7 +5952,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5968,7 +5968,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5989,7 +5989,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6005,7 +6005,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6026,7 +6026,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6050,7 +6050,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6071,7 +6071,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6087,7 +6087,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6108,7 +6108,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6132,7 +6132,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6153,7 +6153,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6177,7 +6177,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6198,7 +6198,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6222,7 +6222,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.1piudyfv7h.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6243,7 +6243,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6267,7 +6267,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.f6zq8v6eb3.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6288,7 +6288,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6312,7 +6312,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6333,7 +6333,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6349,7 +6349,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6370,7 +6370,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6394,7 +6394,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6415,7 +6415,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6431,7 +6431,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.89qbw8ngem.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6452,7 +6452,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6476,7 +6476,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6497,7 +6497,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6513,7 +6513,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6534,7 +6534,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6558,7 +6558,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6579,7 +6579,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6595,7 +6595,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6616,7 +6616,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6632,7 +6632,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6653,7 +6653,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6677,7 +6677,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6698,7 +6698,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6714,7 +6714,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jqwzsa9uv6.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6735,7 +6735,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6759,7 +6759,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6780,7 +6780,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6796,7 +6796,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6817,7 +6817,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6833,7 +6833,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6854,7 +6854,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6878,7 +6878,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.n5w6o92d9r.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6899,7 +6899,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6923,7 +6923,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6944,7 +6944,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6960,7 +6960,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6981,7 +6981,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7005,7 +7005,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7026,7 +7026,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7042,7 +7042,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4908xmbfjr.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7063,7 +7063,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7087,7 +7087,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7108,7 +7108,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7124,7 +7124,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7145,7 +7145,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7161,7 +7161,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7182,7 +7182,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7206,7 +7206,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7227,7 +7227,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7243,7 +7243,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7264,7 +7264,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7288,7 +7288,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7309,7 +7309,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7333,7 +7333,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7354,7 +7354,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7370,7 +7370,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7391,7 +7391,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7415,7 +7415,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7436,7 +7436,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7460,7 +7460,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7481,7 +7481,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7497,7 +7497,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7518,7 +7518,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7534,7 +7534,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7555,7 +7555,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7579,7 +7579,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7600,7 +7600,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7616,7 +7616,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7637,7 +7637,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7661,7 +7661,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7682,7 +7682,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7698,7 +7698,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7719,7 +7719,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7743,7 +7743,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7764,7 +7764,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7780,7 +7780,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7801,7 +7801,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7825,7 +7825,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7846,7 +7846,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7862,7 +7862,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7883,7 +7883,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7899,7 +7899,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7920,7 +7920,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7944,7 +7944,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7965,7 +7965,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7981,7 +7981,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8002,7 +8002,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8026,7 +8026,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8047,7 +8047,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8071,7 +8071,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8092,7 +8092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8108,7 +8108,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8129,7 +8129,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8153,7 +8153,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8174,7 +8174,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8190,7 +8190,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8211,7 +8211,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8235,7 +8235,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "E:\\Projects\\.NET\\CardCrazeRepo\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "G:\\CSharpProj\\CardCraze\\CardCraze\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8256,7 +8256,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 14:14:26 GMT"
+          "Value": "Wed, 09 Apr 2025 00:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
