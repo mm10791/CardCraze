@@ -62,5 +62,21 @@ namespace CardCrazeAPI.Controllers
             return Ok(new { message = "Login succeeded", userId = user.Id });
         }
 
+        //editing account
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateUser(int id, User updatedUser)
+        {
+            var user = await _context.Users.FindAsync(id);
+            if (user == null) return NotFound();
+
+            //updating email and password for now
+            user.Email = updatedUser.Email;
+            user.Password = updatedUser.Password;
+
+            await _context.SaveChangesAsync();
+            return NoContent();
+        }
+
+
     }
 }
