@@ -509,6 +509,7 @@ G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\staticwebassets\msbuild.build
 G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CardCraze.props
 G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CardCraze.props
 G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\staticwebassets.pack.json
+G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\CardCraze.csproj.Up2Date
 G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\CardCraze.dll
 G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\refint\CardCraze.dll
@@ -1345,4 +1346,3 @@ G:\CSharpProj\CardCraze\CardCraze\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudi
 G:\CSharpProj\CardCraze\CardCraze\bin\Debug\net8.0\CardCrazeAPI.dll
 G:\CSharpProj\CardCraze\CardCraze\bin\Debug\net8.0\CardCrazeAPI.pdb
 G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\CardCraze.MvcApplicationPartsAssemblyInfo.cs
-G:\CSharpProj\CardCraze\CardCraze\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
