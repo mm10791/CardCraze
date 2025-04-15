@@ -11,6 +11,7 @@ using Moq;
 using Newtonsoft.Json;
 using System.Net;
 using System.Text;
+using Microsoft.AspNetCore.Http;
 
 namespace CardCraze.Tests
 {
@@ -112,12 +113,12 @@ namespace CardCraze.Tests
 
             //assert
             Assert.That(result, Is.Not.Null);
-            Assert.That(cards, Is.Not.Null );
+            Assert.That(cards, Is.Not.Null);
             Assert.That(cards.Count, Is.EqualTo(1));
             Assert.That(cards.First().Name, Is.EqualTo("Mewtwo"));
         }
 
-        
+
         [Test]
         public async Task BrowseCards_ReturnsFilteredResults_ByPriceRange()
         {
@@ -165,5 +166,111 @@ namespace CardCraze.Tests
             _context.Dispose();
         }
     }
+    //Author: Adrian
+    public class CartControllerTests
+    {
+        private CardCrazeDbContext _context;
 
+        [SetUp]
+        public void Setup()
+        {
+            var options = new DbContextOptionsBuilder<CardCrazeDbContext>()
+                .UseInMemoryDatabase("TestDB")
+                .Options;
+
+            _context = new CardCrazeDbContext(options);
+        }
+        [Test]
+        public async Task MyCart_RedirectsToLogin_WhenUserIsNotLoggedIn()
+        {
+            var controller = new CartController(_context)
+            {
+                ControllerContext = CreateControllerContextWithSession(null)
+            };
+
+            var result = await controller.MyCart();
+
+            var redirectResult = result as RedirectToActionResult;
+            Assert.That(redirectResult, Is.Not.Null);
+            Assert.That(redirectResult.ActionName, Is.EqualTo("Login"));
+            Assert.That(redirectResult.ControllerName, Is.EqualTo("Account"));
+        }
+
+        [Test]
+        public async Task UpdateQuantity_ChangesQuantity()
+        {
+            var item = new CartItem { CartID = 1, UserID = 1, Quantity = 1 };
+            _context.CartItems.Add(item);
+            await _context.SaveChangesAsync();
+
+            var controller = new CartController(_context);
+
+            var result = await controller.UpdateQuantity(item.CartID, 5);
+
+            var updated = await _context.CartItems.FindAsync(item.CartID);
+            Assert.That(updated.Quantity, Is.EqualTo(5));
+
+            var redirect = result as RedirectToActionResult;
+            Assert.That(redirect, Is.Not.Null);
+            Assert.That(redirect.ActionName, Is.EqualTo("MyCart"));
+        }
+
+        [Test]
+        public async Task Remove_DeletesItem()
+        {
+            var item = new CartItem { CartID = 1, UserID = 1, Quantity = 1 };
+            _context.CartItems.Add(item);
+            await _context.SaveChangesAsync();
+
+            var controller = new CartController(_context);
+
+            var result = await controller.Remove(item.CartID);
+
+            var deleted = await _context.CartItems.FindAsync(item.CartID);
+            Assert.That(deleted, Is.Null);
+
+            var redirect = result as RedirectToActionResult;
+            Assert.That(redirect, Is.Not.Null);
+            Assert.That(redirect.ActionName, Is.EqualTo("MyCart"));
+        }
+
+        // Created to simulate a fake session
+        private ControllerContext CreateControllerContextWithSession(int? userId)
+        {
+            var httpContext = new DefaultHttpContext();
+            var session = new TestSession();
+
+            if (userId.HasValue)
+                session.SetInt32("UserId", userId.Value);
+
+            httpContext.Session = session;
+
+            return new ControllerContext
+            {
+                HttpContext = httpContext
+            };
+        }
+        [TearDown]
+        public void Cleanup()
+        {
+            _context.Dispose();
+        }
+        //Test session class to product required session.
+        private class TestSession : ISession
+        {
+            private readonly Dictionary<string, byte[]> _sessionStorage = new();
+
+            public bool IsAvailable => true;
+            public string Id => Guid.NewGuid().ToString();
+            public IEnumerable<string> Keys => _sessionStorage.Keys;
+
+            public void Clear() => _sessionStorage.Clear();
+            public Task CommitAsync(CancellationToken cancellationToken = default) => Task.CompletedTask;
+            public Task LoadAsync(CancellationToken cancellationToken = default) => Task.CompletedTask;
+
+            public void Remove(string key) => _sessionStorage.Remove(key);
+            public void Set(string key, byte[] value) => _sessionStorage[key] = value;
+            public bool TryGetValue(string key, out byte[] value) => _sessionStorage.TryGetValue(key, out value);
+        }
+    }
 }
