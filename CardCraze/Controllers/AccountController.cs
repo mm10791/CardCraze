@@ -15,7 +15,7 @@ namespace CardCraze.Controllers
 
         private readonly HttpClient _httpClient;
         private readonly CardCrazeDbContext _context;
-
+        //for actual app
         public AccountController(CardCrazeDbContext context)
         {
             _context = context;
@@ -37,6 +37,12 @@ namespace CardCraze.Controllers
         [HttpPost]
         public async Task<IActionResult> SignUp(User model)
         {
+
+            if (model.Password != model.ConfirmPassword)
+            {
+                ViewBag.Message = "Passwords dont match";
+                return View(model);
+            }
 
             var json = JsonConvert.SerializeObject(model);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
@@ -193,5 +199,10 @@ namespace CardCraze.Controllers
         }
 
 
+
+
+
     }
+
 }
+

@@ -107,6 +107,9 @@ namespace CardCraze.Tests
 
             _controller = new ShopController(_context, client);
 
+
+
+
             //act
             var result = await _controller.BrowseCards("Legendary", null, null) as ViewResult;
             var cards = result?.Model as List<Card>;
@@ -234,6 +237,10 @@ namespace CardCraze.Tests
             Assert.That(redirect.ActionName, Is.EqualTo("MyCart"));
         }
 
+
+
+
+
         // Created to simulate a fake session
         private ControllerContext CreateControllerContextWithSession(int? userId)
         {
@@ -272,5 +279,95 @@ namespace CardCraze.Tests
             public void Set(string key, byte[] value) => _sessionStorage[key] = value;
             public bool TryGetValue(string key, out byte[] value) => _sessionStorage.TryGetValue(key, out value);
         }
+    }
+
+
+
+    //Author: Tristan
+
+    public class AccountControllerTests
+    {
+        private CardCrazeDbContext _context;
+        private HttpClient GetFakeHttpClient()
+        {
+            var mockHandler = new Mock<HttpMessageHandler>();
+
+            mockHandler
+                .Protected()
+                .Setup<Task<HttpResponseMessage>>(
+                    "SendAsync",
+                    ItExpr.IsAny<HttpRequestMessage>(),
+                    ItExpr.IsAny<CancellationToken>()
+                )
+                .ReturnsAsync(new HttpResponseMessage
+                {
+                    StatusCode = HttpStatusCode.OK,
+                    Content = new StringContent("") 
+                });
+
+            return new HttpClient(mockHandler.Object);
+        }
+
+        [Test]
+        public async Task SignUp_Fails_WhenPasswordsDoNotMatch()
+        {
+            var fakeClient = GetFakeHttpClient();
+            var controller = new AccountController(_context);
+
+            var user = new User
+            {
+                Email = "test@example.com",
+                Password = "test",
+                ConfirmPassword = "testttt"
+            };
+
+            var result = await controller.SignUp(user);
+
+            Assert.That(result, Is.InstanceOf<ViewResult>());
+            Assert.That(controller.ViewBag.Message, Is.EqualTo("Passwords dont match"));
+        }
+
+        [Test]
+        public async Task Login_ReturnsView_WhenEmailIsMissing() //returning the view when user doesnt put in email
+        {
+            var controller = new AccountController(_context);
+
+            controller.ModelState.AddModelError("Email", "Email is required");
+
+            var loginUser = new LoginUser
+            {
+                Email = "", // user forgets to put in email
+                Password = "password"
+            };
+
+            var result = await controller.Login(loginUser);
+
+            Assert.That(result, Is.InstanceOf<ViewResult>());
+            Assert.That(controller.ViewBag.ErrorMessage, Is.EqualTo("Validation failed."));
+        }
+
+        [Test]
+        public async Task Login_ReturnsView_WhenPasswordIsMissing() //returning the view when user doesnt put in password
+        {
+            var controller = new AccountController(_context);
+
+            controller.ModelState.AddModelError("Password", "Password is required");
+
+            var loginUser = new LoginUser
+            {
+                Email = "test@example.com",
+                Password = "" // now user forgets to put in password
+            };
+
+            var result = await controller.Login(loginUser);
+
+            Assert.That(result, Is.InstanceOf<ViewResult>());
+            Assert.That(controller.ViewBag.ErrorMessage, Is.EqualTo("Validation failed."));
+        }
+
+
+
+
+
     }
 }
