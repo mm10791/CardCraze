@@ -15,5 +15,7 @@ namespace CardCrazeAPI.Models
         public DbSet<User> Users { get; set; }
 
         public DbSet<CartItem> CartItems { get; set; }
+
+        public DbSet<OrderHistory> OrderHistories { get; set; }
     }
 }

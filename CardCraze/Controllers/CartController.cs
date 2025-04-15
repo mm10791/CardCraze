@@ -64,10 +64,49 @@ namespace CardCraze.Controllers
         }
 
         //Send user to confirmation page once order is "placed" 
+        //[HttpPost]
+        //public IActionResult Confirmation(string action)
+        //{
+        //    ViewBag.ActionMessage = action;
+        //    return View("Confirmation");
+        //}
+
+        //Tristan Edit Below for order history Compatability
         [HttpPost]
-        public IActionResult Confirmation(string action)
+        public async Task<IActionResult> Confirmation()
         {
-            ViewBag.ActionMessage = action;
+            //get user id from session - redirect if not found
+            var userId = HttpContext.Session.GetInt32("UserId");
+            if (userId == null) return RedirectToAction("Login", "Account");
+
+            //get all cart items that user has alrdy
+            var cartItems = await _context.CartItems
+                .Include(c => c.Card)
+                .Where(c => c.UserID == userId)
+                .ToListAsync();
+            //in case cart is empty
+            if (!cartItems.Any())
+            {
+                ViewBag.Message = "Your cart is empty!";
+                return RedirectToAction("MyCart");
+            }
+            //each unique item gets a new order history row (new table in db)
+            foreach (var item in cartItems)
+            {
+                var orderEntry = new OrderHistory
+                {
+                    UserID = userId.Value,
+                    CardID = item.CardID,
+                    Quantity = item.Quantity,
+                    OrderDate = DateTime.Now
+                };
+                
+                _context.OrderHistories.Add(orderEntry);
+            }
+            //remove the cart items once done
+            _context.CartItems.RemoveRange(cartItems);
+            await _context.SaveChangesAsync();
+
             return View("Confirmation");
         }
 

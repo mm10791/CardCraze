@@ -12,5 +12,7 @@ namespace CardCraze.Models
         public DbSet<CartItem> CartItems { get; set; }
         public DbSet<Wishlist> Wishlists { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<OrderHistory> OrderHistories { get; set; }
+
     }
 }

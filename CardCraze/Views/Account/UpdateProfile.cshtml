@@ -1,0 +1,158 @@
+﻿
+<!--Author: Tristan-->
+@model User
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="~/css/style.css" rel="stylesheet" />
+    <!-- style created by Max -->
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            font-family: Arial, sans-serif;
+            background-image: url('/images/backgroundSunsetImage.png');
+            background-size: cover;
+            background-position: center;
+            min-height: 100vh;
+        }
+
+        .hero {
+            width: 100%;
+            padding: 40px 20px;
+            text-align: center;
+            color: #fff;
+        }
+
+            .hero h1 {
+                margin: 0 0 10px;
+                font-size: 3rem;
+            }
+
+            .hero p {
+                font-size: 1.5rem;
+                margin-bottom: 20px;
+                color: #ddd;
+            }
+
+        .form-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 40px 20px;
+        }
+
+        .form-container {
+            max-width: 400px;
+            width: 100%;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .btn-primary {
+            width: 250px;
+            padding: 15px 30px;
+            color: #fff;
+            background-color: #ce6a76;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1.1rem;
+            transition: background-color 0.3s;
+            text-align: center;
+            margin-bottom: 15px;
+        }
+
+        .user-actions ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .user-actions li {
+            margin: 10px 0;
+        }
+
+        .user-actions a {
+            display: inline-block;
+            width: 250px;
+            padding: 15px 30px;
+            color: #fff;
+            background-color: #ce6a76;
+            text-decoration: none;
+            font-size: 1.1rem;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+            text-align: center;
+        }
+
+            .user-actions a:hover {
+                background-color: #c44b5a;
+            }
+
+        .button-box {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-top: 20px;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Title -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Change Account Details</h1>
+            <p>Become a new you! Enter the new information you'd like us to save</p>
+
+
+            <form asp-action="UpdateProfile" method="post">
+                <input type="hidden" asp-for="Id" />
+
+                <div class="form-group">
+                    <label asp-for="Email"></label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Password"></label>
+                    <input asp-for="Password" type="password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="ConfirmPassword"></label>
+                    <input asp-for="ConfirmPassword" type="password" class="form-control" />
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                </div>
+                <input asp-for="Name" type="hidden" />
+                <input asp-for="LastName" type="hidden" />
+
+                <button type="submit" class="btn btn-primary">Update</button>
+            </form>
+            </section>
+        </div>
+    </section>
+
+</body>
+</html>
+

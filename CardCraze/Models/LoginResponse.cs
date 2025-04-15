@@ -1,4 +1,5 @@
-﻿namespace CardCraze.Models
+﻿//Author: Tristan
+namespace CardCraze.Models
 {
     public class LoginResponse
     {

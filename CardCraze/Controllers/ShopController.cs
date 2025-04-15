@@ -89,6 +89,15 @@ namespace CardCraze.Controllers
             {
                 return RedirectToAction("Login", "Account");
             }
+            //Check if the card is in the wishlist
+            var wishlistItem = await _context.Wishlists
+                                             .FirstOrDefaultAsync(w => w.CardID == cardId && w.UserID == userId.Value);
+
+            if (wishlistItem != null)
+            {
+                // Remove the item from the wishlist
+                _context.Wishlists.Remove(wishlistItem);
+            }
 
             //checking if the card already exists in the cart
             var existingCartItem = await _context.CartItems
@@ -111,8 +120,8 @@ namespace CardCraze.Controllers
                 };
 
                 _context.CartItems.Add(newCartItem);
+                
             }
-
             await _context.SaveChangesAsync();
             return RedirectToAction("Confirmation", new { action = "added to cart" });
         }

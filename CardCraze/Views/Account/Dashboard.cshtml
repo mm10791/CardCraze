@@ -126,7 +126,7 @@
                 <h2>Welcome, @Model.Name</h2>
                 <div class="button-box">
                     <a href="@Url.Action("BrowseCards", "Shop")">Browse Cards</a>
-                    <a href="@Url.Action("UpdateProfile", "Account")">Update Profile Details</a>
+                    <a href="@Url.Action("UpdateProfile", "Account", new { userId = Model.Id })">Update Profile Details</a>
                     <a href="@Url.Action("OrderHistory", "Account")">Order History</a>
                     <a href="@Url.Action("Collection", "Account")">Card Collection</a>
                 </div>

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze.Tests\\CardCraze.Tests.csproj": {}
+    "G:\\CSharpProj\\CardCraze\\CardCraze.Tests\\CardCraze.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze.Tests\\CardCraze.Tests.csproj": {
+    "G:\\CSharpProj\\CardCraze\\CardCraze.Tests\\CardCraze.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze.Tests\\CardCraze.Tests.csproj",
+        "projectUniqueName": "G:\\CSharpProj\\CardCraze\\CardCraze.Tests\\CardCraze.Tests.csproj",
         "projectName": "CardCraze.Tests",
-        "projectPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze.Tests\\CardCraze.Tests.csproj",
-        "packagesPath": "C:\\Users\\Yorick Zorn-Fawcitt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze.Tests\\obj\\",
+        "projectPath": "G:\\CSharpProj\\CardCraze\\CardCraze.Tests\\CardCraze.Tests.csproj",
+        "packagesPath": "C:\\Users\\Young Jae\\.nuget\\packages\\",
+        "outputPath": "G:\\CSharpProj\\CardCraze\\CardCraze.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Yorick Zorn-Fawcitt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Young Jae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\CardCraze.csproj": {
-                "projectPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\CardCraze.csproj"
+              "G:\\CSharpProj\\CardCraze\\CardCraze\\CardCraze.csproj": {
+                "projectPath": "G:\\CSharpProj\\CardCraze\\CardCraze\\CardCraze.csproj"
               }
             }
           }
@@ -49,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -96,24 +96,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj": {
+    "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
+        "projectUniqueName": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
         "projectName": "CardCrazeAPI",
-        "projectPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
-        "packagesPath": "C:\\Users\\Yorick Zorn-Fawcitt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\obj\\",
+        "projectPath": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj",
+        "packagesPath": "C:\\Users\\Young Jae\\.nuget\\packages\\",
+        "outputPath": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Yorick Zorn-Fawcitt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Young Jae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -141,7 +141,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -195,24 +195,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\CardCraze.csproj": {
+    "G:\\CSharpProj\\CardCraze\\CardCraze\\CardCraze.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\CardCraze.csproj",
+        "projectUniqueName": "G:\\CSharpProj\\CardCraze\\CardCraze\\CardCraze.csproj",
         "projectName": "CardCraze",
-        "projectPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\CardCraze.csproj",
-        "packagesPath": "C:\\Users\\Yorick Zorn-Fawcitt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCraze\\obj\\",
+        "projectPath": "G:\\CSharpProj\\CardCraze\\CardCraze\\CardCraze.csproj",
+        "packagesPath": "C:\\Users\\Young Jae\\.nuget\\packages\\",
+        "outputPath": "G:\\CSharpProj\\CardCraze\\CardCraze\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Yorick Zorn-Fawcitt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Young Jae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -228,8 +228,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj": {
-                "projectPath": "C:\\Users\\Yorick Zorn-Fawcitt\\source\\repos\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj"
+              "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj": {
+                "projectPath": "G:\\CSharpProj\\CardCraze\\CardCrazeAPI\\CardCrazeAPI.csproj"
               }
             }
           }
@@ -244,7 +244,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -308,7 +308,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
