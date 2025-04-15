@@ -693,3 +693,4 @@ E:\Projects\.NET\CardCrazeRepo\CardCraze\CardCrazeAPI\obj\Debug\net8.0\refint\Ca
 E:\Projects\.NET\CardCrazeRepo\CardCraze\CardCrazeAPI\obj\Debug\net8.0\CardCrazeAPI.pdb
 E:\Projects\.NET\CardCrazeRepo\CardCraze\CardCrazeAPI\obj\Debug\net8.0\CardCrazeAPI.genruntimeconfig.cache
 E:\Projects\.NET\CardCrazeRepo\CardCraze\CardCrazeAPI\obj\Debug\net8.0\ref\CardCrazeAPI.dll
+G:\CSharpProj\CardCraze\CardCrazeAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

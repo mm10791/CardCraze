@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\CSharpProj\\CardCraze\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\cart\\mycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\cart\\mycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\cart\\mycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|solutionrelative:cardcraze\\views\\cart\\mycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C9E92AE-F343-46C3-B3BB-EC5303BE8E9E}|CardCraze\\CardCraze.csproj|g:\\csharpproj\\cardcraze\\cardcraze\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -135,7 +135,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 152,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -175,8 +175,7 @@
               "RelativeToolTip": "CardCraze\\Models\\Card.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T05:19:16.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T05:19:16.408Z"
             },
             {
               "$type": "Document",
@@ -188,8 +187,7 @@
               "RelativeToolTip": "CardCraze\\Models\\Wishlist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T05:20:05.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T05:20:05.622Z"
             },
             {
               "$type": "Document",
@@ -201,8 +199,7 @@
               "RelativeToolTip": "CardCraze\\Models\\CartItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T05:16:57.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T05:16:57.47Z"
             },
             {
               "$type": "Document",
@@ -214,8 +211,7 @@
               "RelativeToolTip": "CardCraze\\Models\\CardCrazeDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T04:41:32.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T04:41:32.811Z"
             },
             {
               "$type": "Document",
@@ -227,8 +223,7 @@
               "RelativeToolTip": "CardCraze\\Views\\Account\\Dashboard.cshtml",
               "ViewState": "AgIAABAAAAAAAAAAAAAAAIUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T03:40:48.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T03:40:48.619Z"
             },
             {
               "$type": "Document",
@@ -240,25 +235,24 @@
               "RelativeToolTip": "CardCraze\\Views\\Cart\\Confirmation.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T04:08:54.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T04:08:54.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MyCart.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Cart\\MyCart.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Cart\\MyCart.cshtml",
               "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Cart\\MyCart.cshtml",
               "RelativeToolTip": "CardCraze\\Views\\Cart\\MyCart.cshtml",
-              "ViewState": "AgIAAI8AAAAAAAAAAADwv6QAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAAAAAAADwv6QAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-15T04:08:57.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Account\\Login.cshtml",
@@ -266,12 +260,11 @@
               "RelativeToolTip": "CardCraze\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T04:09:17.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T04:09:17.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SignUp.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Account\\SignUp.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Account\\SignUp.cshtml",
@@ -279,12 +272,11 @@
               "RelativeToolTip": "CardCraze\\Views\\Account\\SignUp.cshtml",
               "ViewState": "AgIAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T04:08:44.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T04:08:44.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BrowseCards.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Shop\\BrowseCards.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Shop\\BrowseCards.cshtml",
@@ -292,12 +284,11 @@
               "RelativeToolTip": "CardCraze\\Views\\Shop\\BrowseCards.cshtml",
               "ViewState": "AgIAAKUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T06:00:47.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T06:00:47.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Confirmation.cshtml",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Views\\Shop\\Confirmation.cshtml",
               "RelativeDocumentMoniker": "CardCraze\\Views\\Shop\\Confirmation.cshtml",
@@ -305,18 +296,17 @@
               "RelativeToolTip": "CardCraze\\Views\\Shop\\Confirmation.cshtml",
               "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T06:00:48.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T06:00:48.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CartController.cs",
               "DocumentMoniker": "G:\\CSharpProj\\CardCraze\\CardCraze\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "CardCraze\\Controllers\\CartController.cs",
               "ToolTip": "G:\\CSharpProj\\CardCraze\\CardCraze\\Controllers\\CartController.cs",
               "RelativeToolTip": "CardCraze\\Controllers\\CartController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAiwEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAA2wEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T05:22:35.955Z",
               "EditorCaption": ""
@@ -331,8 +321,7 @@
               "RelativeToolTip": "CardCraze\\Models\\LoginResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T06:00:57.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T06:00:57.722Z"
             },
             {
               "$type": "Document",
@@ -344,8 +333,7 @@
               "RelativeToolTip": "CardCraze\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T06:00:53.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T06:00:53.03Z"
             },
             {
               "$type": "Document",
@@ -357,8 +345,7 @@
               "RelativeToolTip": "CardCraze\\Models\\FakeCardData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T06:00:53.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T06:00:53.775Z"
             },
             {
               "$type": "Document",
@@ -370,8 +357,7 @@
               "RelativeToolTip": "CardCraze\\Models\\FeaturedCards.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T06:00:54.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T06:00:54.618Z"
             },
             {
               "$type": "Document",
@@ -383,8 +369,7 @@
               "RelativeToolTip": "CardCraze\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T05:20:04.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T05:20:04.654Z"
             },
             {
               "$type": "Document",
@@ -396,8 +381,7 @@
               "RelativeToolTip": "CardCraze\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T03:43:44.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T03:43:44.219Z"
             },
             {
               "$type": "Document",
@@ -409,8 +393,7 @@
               "RelativeToolTip": "CardCraze\\Controllers\\CardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T04:08:34.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T04:08:34.468Z"
             },
             {
               "$type": "Document",
@@ -422,8 +405,7 @@
               "RelativeToolTip": "CardCraze\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T06:01:03.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T06:01:03.491Z"
             },
             {
               "$type": "Document",
@@ -435,8 +417,7 @@
               "RelativeToolTip": "CardCraze\\Migrations\\CardCrazeDbContextModelSnapshot.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T05:55:34.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T05:55:34.014Z"
             },
             {
               "$type": "Document",
@@ -448,8 +429,7 @@
               "RelativeToolTip": "CardCraze\\Models\\LoginUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T05:20:33.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T05:20:33.018Z"
             },
             {
               "$type": "Document",
@@ -461,8 +441,7 @@
               "RelativeToolTip": "CardCraze\\Controllers\\ShopController.cs",
               "ViewState": "AgIAAF4AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T03:42:39.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T03:42:39.815Z"
             },
             {
               "$type": "Document",
